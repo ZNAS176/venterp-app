@@ -1,0 +1,8 @@
+{
+  "name": "ventero-app",
+  "private": true,
+  "type": "module",
+  "description": "Seguimiento de El Ventero CBV · Tercera FEB 2026/27",
+  "scripts": { "actualizar": "node scripts/update.mjs" },
+  "dependencies": { "cheerio": "^1.0.0", "web-push": "^3.6.7" }
+}

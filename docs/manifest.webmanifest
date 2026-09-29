@@ -1,0 +1,17 @@
+{
+  "name": "El Ventero CBV · Temporada 2026/27",
+  "short_name": "Ventero",
+  "description": "Calendario, resultados, estadísticas y avisos de El Ventero CBV en Tercera FEB.",
+  "lang": "es",
+  "start_url": "./#inicio",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3EFE6",
+  "theme_color": "#15171C",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
