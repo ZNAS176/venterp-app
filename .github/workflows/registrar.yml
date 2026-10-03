@@ -1,0 +1,85 @@
+name: Registrar dispositivo
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: datos
+  cancel-in-progress: false
+
+jobs:
+  registrar:
+    if: startsWith(github.event.issue.title, 'Registrar dispositivo')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-audit --no-fund
+      - id: reg
+        env:
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          VAPID_SUBJECT: https://${{ github.repository_owner }}.github.io
+        run: node scripts/register.mjs
+      - name: Guardar suscripción
+        run: |
+          git config user.name "ventero-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add push
+          git diff --cached --quiet || (git commit -m "Registrar dispositivo" && git pull --rebase --autostash && git push)
+      - name: Responder y cerrar la incidencia
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MSG: ${{ steps.reg.outputs.message }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --repo ${{ github.repository }} --body "$MSG"
+          gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }}name: Registrar dispositivo
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: datos
+  cancel-in-progress: false
+
+jobs:
+  registrar:
+    if: startsWith(github.event.issue.title, 'Registrar dispositivo')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-audit --no-fund
+      - id: reg
+        env:
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          VAPID_SUBJECT: https://${{ github.repository_owner }}.github.io
+        run: node scripts/register.mjs
+      - name: Guardar suscripción
+        run: |
+          git config user.name "ventero-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add push
+          git diff --cached --quiet || (git commit -m "Registrar dispositivo" && git pull --rebase --autostash && git push)
+      - name: Responder y cerrar la incidencia
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MSG: ${{ steps.reg.outputs.message }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --repo ${{ github.repository }} --body "$MSG"
+          gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }}
