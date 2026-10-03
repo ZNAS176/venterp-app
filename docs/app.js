@@ -210,6 +210,26 @@
     return `<h2 class="h2">Resultados</h2>${M.played.slice().reverse().map((m) => resultRow(m, true)).join('')}`;
   }
 
+  function viewClasificacion() {
+    const S = D.standings;
+    const next = 'sábado 23:30, domingo 22:00 y a medianoche cuando hay partidos entre semana';
+    if (!S || !S.rows || !S.rows.length) return `<h2 class="h2">Clasificación</h2><p class="empty">La clasificación del grupo B-A aparecerá tras la primera jornada. Se actualiza el ${next}.</p>`;
+    const SHORT = D.short || {};
+    const nm = (t) => (t === D.team ? 'El Ventero' : SHORT[t] || t);
+    return `<section class="stack" aria-labelledby="h-clas">
+      <h2 id="h-clas" class="h2">Clasificación</h2>
+      <p class="small muted" style="margin:0">Grupo B-A · ${esc(S.jornada || '')} · act. ${esc(fmt(S.updated, { weekday: 'short', day: 'numeric', month: 'short' }))} ${hhmm(S.updated)}</p>
+      <div class="table"><table class="standings"><thead><tr><th scope="col" aria-label="Posición">#</th><th scope="col" class="team">Equipo</th><th scope="col" title="Partidos jugados">PJ</th><th scope="col" title="Ganados">G</th><th scope="col" title="Perdidos">P</th><th scope="col" title="Diferencia">DIF</th><th scope="col" title="Puntos de clasificación">PT</th><th scope="col" title="Racha">R</th></tr></thead><tbody>
+      ${S.rows.map((r) => {
+        const dif = r.pf - r.pc;
+        const rc = /^\+/.test(r.racha) ? 'racha-pos' : 'racha-neg';
+        return `<tr class="${r.team === D.team ? 'me' : ''}"><td>${r.pos}</td><td class="team" title="${esc(r.team)}">${esc(nm(r.team))}</td><td>${r.pj}</td><td>${r.pg}</td><td>${r.pp}</td><td title="${r.pf} a favor, ${r.pc} en contra">${dif > 0 ? '+' : ''}${dif}</td><td class="pt">${r.pt}</td><td class="${rc}">${esc(r.racha)}</td></tr>`;
+      }).join('')}
+      </tbody></table></div>
+      <p class="legend">DIF: puntos a favor menos en contra. PT: 2 por victoria y 1 por derrota. R: racha (+ victorias, − derrotas seguidas). Se actualiza el ${next}.</p>
+    </section>`;
+  }
+
   function viewStats(M, sel) {
     const games = M.ms.filter((m) => m.hasStats);
     if (!games.length) return '<h2 class="h2">Estadísticas</h2><p class="empty">Las estadísticas de El Ventero se cargan desde el acta FEB de cada partido en cuanto termina.</p>';
@@ -240,16 +260,17 @@
     const h = (location.hash || '#inicio').slice(1);
     const m = /^stats-(\d+)$/.exec(h);
     if (m) return { tab: 'stats', sel: Number(m[1]) };
-    return { tab: ['inicio', 'calendario', 'resultados', 'stats'].includes(h) ? h : 'inicio' };
+    return { tab: ['inicio', 'calendario', 'resultados', 'clasificacion', 'stats'].includes(h) ? h : 'inicio' };
   }
 
   function render() {
     if (!D) return;
     const r = route(), M = model();
     document.querySelectorAll('.tabs a').forEach((a) => (a.dataset.tab === r.tab ? a.setAttribute('aria-current', 'page') : a.removeAttribute('aria-current')));
-    document.getElementById('record').textContent = `${M.bal.w}–${M.bal.l}`;
+    const me = D.standings && D.standings.rows && D.standings.rows.find((x) => x.team === D.team);
+    document.getElementById('record').textContent = me ? `${me.pos}º · ${M.bal.w}–${M.bal.l}` : `${M.bal.w}–${M.bal.l}`;
     document.getElementById('updated').textContent = `Act. ${fmt(D.updated, { day: 'numeric', month: 'short' })} ${hhmm(D.updated)}`;
-    $view.innerHTML = r.tab === 'calendario' ? viewCalendario(M) : r.tab === 'resultados' ? viewResultados(M) : r.tab === 'stats' ? viewStats(M, r.sel) : viewInicio(M);
+    $view.innerHTML = r.tab === 'calendario' ? viewCalendario(M) : r.tab === 'resultados' ? viewResultados(M) : r.tab === 'clasificacion' ? viewClasificacion() : r.tab === 'stats' ? viewStats(M, r.sel) : viewInicio(M);
     clearInterval(tick);
     if (r.tab === 'inicio' && M.next) tick = setInterval(() => {
       const cd = countdown(M.next, Date.now());

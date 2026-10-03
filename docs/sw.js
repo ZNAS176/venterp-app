@@ -1,5 +1,5 @@
 /* Service worker: funcionamiento sin conexión y notificaciones push */
-const CACHE = 'ventero-v1';
+const CACHE = 'ventero-v2';
 const SHELL = ['./', 'index.html', 'app.css', 'app.js', 'config.js', 'manifest.webmanifest',
   'icons/logo.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/favicon.png', 'data/season.json'];
 
