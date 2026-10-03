@@ -2,7 +2,7 @@
 // Se ejecuta cada hora con GitHub Actions (.github/workflows/actualizar.yml).
 import {
   readJSON, writeJSON, fetchMatch, isFinished, sendPush, madridParts,
-  fmtDay, fmtTime, nowISO
+  fmtDay, fmtTime, nowISO, fetchStandings, standingsSlot
 } from './lib.mjs';
 
 const SEASON = 'docs/data/season.json';
@@ -10,6 +10,10 @@ const SUBS = 'push/subscriptions.json';
 const STATE = 'push/state.json';
 
 const D = readJSON(SEASON);
+// Datos del grupo (nombre en la FEB y fechas con partido) si aún no están en season.json
+const GRUPO = readJSON('scripts/grupo.json', {});
+if (!D.group) D.group = GRUPO.group;
+if (!D.groupDates) D.groupDates = GRUPO.groupDates || [];
 const state = readJSON(STATE, { sent: [] });
 const TEAM = D.team;
 const SHORT = D.short || {};
@@ -25,7 +29,7 @@ const vs = (m) => (m.home === TEAM ? `vs ${short(rivalOf(m))}` : `en ${short(riv
 const wasSent = (k) => state.sent.includes(k);
 const markSent = (k) => { state.sent.push(k); state.sent = state.sent.slice(-300); };
 
-if (process.argv.includes('--test-push')) {
+if (process.argv.includes('--test-push') && !process.argv.includes('--clasificacion')) {
   await sendPush(SUBS, { title: 'El Ventero CBV', body: 'Prueba de avisos: todo funciona.', url: './', tag: 'prueba' });
   process.exit(0);
 }
@@ -99,6 +103,31 @@ if (next) {
   if (left > 0 && left <= 2 * H && !wasSent(`2h-${next.j}-${next.ko}`)) {
     notes.push({ title: `Hoy a las ${fmtTime(next.ko)} · El Ventero ${vs(next)}`, body: `Faltan ${Math.round(left / 60000)} min · ${where}`, url: './', tag: `aviso-${next.j}` });
     markSent(`2h-${next.j}-${next.ko}`);
+  }
+}
+
+// 4) Clasificación: sábados 23:30, domingos 22:00 y medianoche tras partidos entre semana
+const forceStandings = process.argv.includes('--clasificacion');
+const slot = standingsSlot(new Date(now), D.groupDates || []);
+if (forceStandings || (slot && !wasSent(`clas-${slot}`))) {
+  try {
+    const s = await fetchStandings(D.group);
+    if (s.dates.length) D.groupDates = [...new Set([...(D.groupDates || []), ...s.dates])].sort();
+    if (s.rows.length) {
+      const before = D.standings?.rows?.find((r) => r.team === TEAM);
+      D.standings = { updated: nowISO(), jornada: s.jornada, rows: s.rows };
+      const me = s.rows.find((r) => r.team === TEAM);
+      if (me && (!before || before.pos !== me.pos || before.pj !== me.pj)) {
+        notes.push({ title: `Clasificación · El Ventero ${me.pos}º`, body: `${me.pg}V – ${me.pp}D · ${me.pt} puntos · ${s.jornada}`, url: './#clasificacion', tag: 'clasificacion' });
+      }
+      changed = true;
+      console.log(`Clasificación actualizada (${s.rows.length} equipos, ${s.jornada})`);
+    } else {
+      console.log('La FEB aún no muestra clasificación para el grupo');
+    }
+    if (slot) markSent(`clas-${slot}`);
+  } catch (e) {
+    console.log('Error al leer la clasificación:', e.message);
   }
 }
 
