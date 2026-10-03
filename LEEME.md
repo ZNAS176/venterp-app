@@ -38,6 +38,10 @@ de prueba. Repite en cada móvil que quieras avisar (con tu cuenta).
 
 ## Qué hace sola la app
 
+**Clasificación del grupo B-A** (pestaña *Clasificación*): se actualiza los **sábados a las 23:30**,
+los **domingos a las 22:00** y, si ha habido partidos del grupo entre semana, **a medianoche** de ese día.
+Para forzarla: *Actions → Actualizar datos FEB → Run workflow* y marca *Actualizar la clasificación ahora*.
+
 Cada hora (GitHub puede retrasarlo unos minutos):
 - Si un partido de El Ventero ha terminado y la FEB ha publicado el acta: guarda el marcador y la
   estadística de cada jugador, y avisa con el resultado, el máximo anotador y la mejor valoración.
