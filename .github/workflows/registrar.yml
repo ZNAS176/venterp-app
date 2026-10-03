@@ -1,85 +1,50 @@
-name: Registrar dispositivo
+name: Actualizar datos FEB
 
 on:
-  issues:
-    types: [opened]
+  schedule:
+    - cron: '7 * * * *'      # cada hora: resultados, horarios y recordatorios
+    # Clasificación (horas UTC; hay dos líneas por el cambio de horario verano/invierno)
+    - cron: '31 21,22 * * 6' # sábados 23:30 hora de Madrid
+    - cron: '1 20,21 * * 0'  # domingos 22:00 hora de Madrid
+    - cron: '1 22,23 * * *'  # medianoche de Madrid (solo actúa tras partidos entre semana)
+  workflow_dispatch:
+    inputs:
+      prueba:
+        description: 'Enviar una notificación de prueba'
+        type: boolean
+        default: false
+      clasificacion:
+        description: 'Actualizar la clasificación ahora'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
-  issues: write
 
 concurrency:
   group: datos
   cancel-in-progress: false
 
 jobs:
-  registrar:
-    if: startsWith(github.event.issue.title, 'Registrar dispositivo')
+  actualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
       - run: npm install --no-audit --no-fund
-      - id: reg
+      - name: Leer la FEB y enviar avisos
         env:
           VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
           VAPID_SUBJECT: https://${{ github.repository_owner }}.github.io
-        run: node scripts/register.mjs
-      - name: Guardar suscripción
+        run: node scripts/update.mjs ${{ inputs.prueba && '--test-push' || '' }} ${{ inputs.clasificacion && '--clasificacion' || '' }}
+      - name: Guardar cambios
         run: |
           git config user.name "ventero-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add push
-          git diff --cached --quiet || (git commit -m "Registrar dispositivo" && git pull --rebase --autostash && git push)
-      - name: Responder y cerrar la incidencia
-        env:
-          GH_TOKEN: ${{ github.token }}
-          MSG: ${{ steps.reg.outputs.message }}
-        run: |
-          gh issue comment ${{ github.event.issue.number }} --repo ${{ github.repository }} --body "$MSG"
-          gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }}name: Registrar dispositivo
-
-on:
-  issues:
-    types: [opened]
-
-permissions:
-  contents: write
-  issues: write
-
-concurrency:
-  group: datos
-  cancel-in-progress: false
-
-jobs:
-  registrar:
-    if: startsWith(github.event.issue.title, 'Registrar dispositivo')
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-      - run: npm install --no-audit --no-fund
-      - id: reg
-        env:
-          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
-          VAPID_SUBJECT: https://${{ github.repository_owner }}.github.io
-        run: node scripts/register.mjs
-      - name: Guardar suscripción
-        run: |
-          git config user.name "ventero-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add push
-          git diff --cached --quiet || (git commit -m "Registrar dispositivo" && git pull --rebase --autostash && git push)
-      - name: Responder y cerrar la incidencia
-        env:
-          GH_TOKEN: ${{ github.token }}
-          MSG: ${{ steps.reg.outputs.message }}
-        run: |
-          gh issue comment ${{ github.event.issue.number }} --repo ${{ github.repository }} --body "$MSG"
-          gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }}
+          git add docs/data push
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Datos FEB $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase --autostash && git push
