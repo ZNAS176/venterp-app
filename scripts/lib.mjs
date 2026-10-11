@@ -56,6 +56,7 @@ export function parseMatch(html) {
   const direccion = txt('.box-datos-partido .pista .direccion');
 
   const boxes = {};
+  const order = []; // tablas en el orden de la página: [local, visitante]
   $('h1.titulo-modulo').each((i, h) => {
     const team = $(h).text().replace(/\s+/g, ' ').trim();
     const table = $(h).nextAll('.responsive-scroll').first().find('table').first();
@@ -77,6 +78,7 @@ export function parseMatch(html) {
       });
     });
     boxes[team] = { players, totalMin, totalPts };
+    order.push(boxes[team]);
   });
 
   return {
@@ -84,7 +86,8 @@ export function parseMatch(html) {
     sh: res[0] ?? null, sa: res[1] ?? null,
     ko: febDateToISO(fechaTxt),
     venue: [pabellon, direccion].filter(Boolean).join(', ') || null,
-    boxes
+    quarters: $('.box-cuartos .marcador').map((i, e) => $(e).text().trim()).get(),
+    boxes, order
   };
 }
 
@@ -93,7 +96,7 @@ export function parseMatch(html) {
 export function isFinished(p) {
   const b = Object.values(p.boxes);
   if (b.length < 2) return false;
-  const [l, v] = [p.boxes[p.local], p.boxes[p.visitante]];
+  const [l, v] = [p.boxes[p.local] || p.order[0], p.boxes[p.visitante] || p.order[1]];
   if (!l || !v) return false;
   return l.totalMin >= 199.9 && v.totalMin >= 199.9 && l.totalPts === p.sh && v.totalPts === p.sa && (p.sh + p.sa) > 0;
 }

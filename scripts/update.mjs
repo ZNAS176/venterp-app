@@ -4,6 +4,7 @@ import {
   readJSON, writeJSON, fetchMatch, isFinished, sendPush, madridParts,
   fmtDay, fmtTime, nowISO, fetchStandings, standingsSlot
 } from './lib.mjs';
+import { updateLiga } from './liga.mjs';
 
 const SEASON = 'docs/data/season.json';
 const SUBS = 'push/subscriptions.json';
@@ -30,7 +31,7 @@ const wasSent = (k) => state.sent.includes(k);
 const markSent = (k) => { state.sent.push(k); state.sent = state.sent.slice(-300); };
 
 if (process.argv.includes('--test-push') && !process.argv.includes('--clasificacion')) {
-  await sendPush(SUBS, { title: 'El Ventero CBV', body: 'Prueba de avisos: todo funciona.', url: './', tag: 'prueba' });
+  await sendPush(SUBS, { title: 'Ventero CBV', body: 'Prueba de avisos: todo funciona.', url: './', tag: 'prueba' });
   process.exit(0);
 }
 
@@ -129,6 +130,13 @@ if (forceStandings || (slot && !wasSent(`clas-${slot}`))) {
   } catch (e) {
     console.log('Error al leer la clasificación:', e.message);
   }
+}
+
+// 5) Resultados y actas de todo el grupo
+try {
+  await updateLiga({ feb, now, nowISO, wasSent, markSent });
+} catch (e) {
+  console.log('Error al actualizar el grupo:', e.message);
 }
 
 if (changed) D.updated = nowISO();

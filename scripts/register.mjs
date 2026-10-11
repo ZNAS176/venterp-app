@@ -28,6 +28,6 @@ writeJSON(SUBS, subs);
 
 const tmp = 'push/.one.json';
 writeJSON(tmp, [entry]);
-const { sent } = await sendPush(tmp, { title: 'El Ventero CBV', body: 'Avisos activados en este dispositivo.', url: './', tag: 'registro' });
+const { sent } = await sendPush(tmp, { title: 'Ventero CBV', body: 'Avisos activados en este dispositivo.', url: './', tag: 'registro' });
 fs.unlinkSync(tmp);
 out(sent ? `Dispositivo "${entry.name}" registrado. Te he enviado una notificación de prueba.` : `Dispositivo "${entry.name}" guardado, pero la notificación de prueba no salió: revisa los secretos VAPID.`);
