@@ -1,1 +1,1987 @@
-{"updated":"2026-10-11T12:00:00+02:00","teams":["AG MOVIALSA QUALITYSPORT CRIPTANA","ARISTOS PARTIZÁN DE FUENLABRADA","BASKET GLOBALCAJA QUINTANAR","C. D. MENSAJERO ISLA DE LA PALMA","C.B. DADARMO DE GÜIMAR","C.B. LAS ROZAS","CB ARIDANE","CESUR DISTRITO OLIMPICO","EB FELIPE ANTÓN","EL VENTERO CBV","FUNDACION GLOBALCAJA LA RODA","QUALIS C.B VILLA DE VALDEMORO","STOP BIOGÁS TOBARRA","ZENTRO BASKET MADRID"],"short":{"AG MOVIALSA QUALITYSPORT CRIPTANA":"Criptana","ARISTOS PARTIZÁN DE FUENLABRADA":"Partizán Fuenlabrada","BASKET GLOBALCAJA QUINTANAR":"Quintanar","C. D. MENSAJERO ISLA DE LA PALMA":"Mensajero La Palma","C.B. DADARMO DE GÜIMAR":"Dadarmo Güímar","C.B. LAS ROZAS":"Las Rozas","CB ARIDANE":"Aridane","CESUR DISTRITO OLIMPICO":"Distrito Olímpico","EB FELIPE ANTÓN":"Felipe Antón","FUNDACION GLOBALCAJA LA RODA":"La Roda","QUALIS C.B VILLA DE VALDEMORO":"Valdemoro","STOP BIOGÁS TOBARRA":"Tobarra","ZENTRO BASKET MADRID":"Zentro Madrid","EL VENTERO CBV":"El Ventero"},"jornadas":[{"j":1,"matches":[{"p":"2537026","ko":"2026-10-03T18:30:00+02:00","home":"STOP BIOGÁS TOBARRA","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537028","ko":"2026-10-03T19:00:00+02:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537031","ko":"2026-10-03T19:15:00+02:00","home":"EB FELIPE ANTÓN","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537025","ko":"2026-10-03T19:30:00+02:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537027","ko":"2026-10-03T20:30:00+02:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537030","ko":"2026-10-04T11:30:00+02:00","home":"CESUR DISTRITO OLIMPICO","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537029","ko":"2026-10-04T12:00:00+02:00","home":"EL VENTERO CBV","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":2,"matches":[{"p":"2537034","ko":"2026-10-10T18:30:00+02:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537035","ko":"2026-10-10T19:00:00+02:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537036","ko":"2026-10-10T19:30:00+02:00","home":"C.B. LAS ROZAS","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537032","ko":"2026-10-10T20:00:00+02:00","home":"C.B. DADARMO DE GÜIMAR","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537033","ko":"2026-10-10T20:00:00+02:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537037","ko":"2026-10-10T20:00:00+02:00","home":"CB ARIDANE","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537038","ko":"2026-10-10T20:15:00+02:00","home":"ZENTRO BASKET MADRID","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":3,"matches":[{"p":"2537045","ko":"2026-10-17T13:00:00+02:00","home":"C.B. DADARMO DE GÜIMAR","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537043","ko":"2026-10-17T18:45:00+02:00","home":"CESUR DISTRITO OLIMPICO","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537039","ko":"2026-10-17T19:30:00+02:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537044","ko":"2026-10-17T20:00:00+02:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537040","ko":"2026-10-17T20:30:00+02:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537041","ko":"2026-10-18T11:00:00+02:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537042","ko":"2026-10-18T12:00:00+02:00","home":"EL VENTERO CBV","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":4,"matches":[{"p":"2537050","ko":"2026-10-23T21:00:00+02:00","home":"CB ARIDANE","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537052","ko":"2026-10-24T18:30:00+02:00","home":"STOP BIOGÁS TOBARRA","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537049","ko":"2026-10-24T19:30:00+02:00","home":"C.B. LAS ROZAS","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537046","ko":"2026-10-24T20:00:00+02:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537051","ko":"2026-10-24T20:15:00+02:00","home":"ZENTRO BASKET MADRID","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537048","ko":"2026-10-25T11:00:00+01:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537047","ko":"2026-10-25T13:00:00+01:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":5,"matches":[{"p":"2537056","ko":"2026-10-31T18:45:00+01:00","home":"CESUR DISTRITO OLIMPICO","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537054","ko":"2026-10-31T19:00:00+01:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537053","ko":"2026-10-31T19:30:00+01:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537057","ko":"2026-10-31T20:00:00+01:00","home":"EB FELIPE ANTÓN","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537058","ko":"2026-10-31T20:00:00+01:00","home":"C.B. DADARMO DE GÜIMAR","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537059","ko":"2026-10-31T20:00:00+01:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537055","ko":"2026-11-01T12:00:00+01:00","home":"EL VENTERO CBV","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":6,"matches":[{"p":"2537062","ko":"2026-11-07T16:30:00+01:00","home":"C.B. LAS ROZAS","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537065","ko":"2026-11-07T18:30:00+01:00","home":"STOP BIOGÁS TOBARRA","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537061","ko":"2026-11-07T19:00:00+01:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537063","ko":"2026-11-07T20:00:00+01:00","home":"CB ARIDANE","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537064","ko":"2026-11-07T20:15:00+01:00","home":"ZENTRO BASKET MADRID","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537066","ko":"2026-11-07T20:30:00+01:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537060","ko":"2026-11-08T18:30:00+01:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":7,"matches":[{"p":"2537071","ko":"2026-11-14T17:00:00+01:00","home":"C.B. DADARMO DE GÜIMAR","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537073","ko":"2026-11-14T18:30:00+01:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537069","ko":"2026-11-14T18:45:00+01:00","home":"CESUR DISTRITO OLIMPICO","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537067","ko":"2026-11-14T19:30:00+01:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537070","ko":"2026-11-14T20:00:00+01:00","home":"EB FELIPE ANTÓN","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537072","ko":"2026-11-14T20:00:00+01:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537068","ko":"2026-11-15T12:00:00+01:00","home":"EL VENTERO CBV","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":8,"matches":[{"p":"2537077","ko":"2026-11-21T13:15:00+01:00","home":"ZENTRO BASKET MADRID","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537078","ko":"2026-11-21T18:30:00+01:00","home":"STOP BIOGÁS TOBARRA","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537074","ko":"2026-11-21T19:00:00+01:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537080","ko":"2026-11-21T19:00:00+01:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537076","ko":"2026-11-21T20:00:00+01:00","home":"CB ARIDANE","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537079","ko":"2026-11-21T20:30:00+01:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537075","ko":"2026-11-22T19:30:00+01:00","home":"C.B. LAS ROZAS","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":9,"matches":[{"p":"2537087","ko":"2026-11-28T19:00:00+01:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537081","ko":"2026-11-28T19:30:00+01:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537082","ko":"2026-11-28T20:00:00+01:00","home":"CESUR DISTRITO OLIMPICO","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537083","ko":"2026-11-28T20:00:00+01:00","home":"EB FELIPE ANTÓN","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537084","ko":"2026-11-28T20:00:00+01:00","home":"C.B. DADARMO DE GÜIMAR","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537085","ko":"2026-11-28T20:00:00+01:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537086","ko":"2026-11-29T12:00:00+01:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":10,"matches":[{"p":"2537091","ko":"2026-12-05T18:30:00+01:00","home":"STOP BIOGÁS TOBARRA","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537093","ko":"2026-12-05T19:00:00+01:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537088","ko":"2026-12-05T19:30:00+01:00","home":"C.B. LAS ROZAS","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537090","ko":"2026-12-05T20:15:00+01:00","home":"ZENTRO BASKET MADRID","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537089","ko":"2026-12-06T12:00:00+01:00","home":"CB ARIDANE","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537094","ko":"2026-12-06T12:00:00+01:00","home":"EL VENTERO CBV","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537092","ko":"2026-12-06T15:30:00+01:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":11,"matches":[{"p":"2537100","ko":"2026-12-12T19:00:00+01:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537095","ko":"2026-12-12T19:30:00+01:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537101","ko":"2026-12-12T19:30:00+01:00","home":"C.B. LAS ROZAS","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537096","ko":"2026-12-12T20:00:00+01:00","home":"EB FELIPE ANTÓN","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537097","ko":"2026-12-12T20:00:00+01:00","home":"C.B. DADARMO DE GÜIMAR","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537098","ko":"2026-12-12T20:00:00+01:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537099","ko":"2026-12-13T18:30:00+01:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":12,"matches":[{"p":"2537104","ko":"2026-12-19T18:30:00+01:00","home":"STOP BIOGÁS TOBARRA","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537108","ko":"2026-12-19T18:45:00+01:00","home":"CESUR DISTRITO OLIMPICO","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537106","ko":"2026-12-19T19:00:00+01:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537102","ko":"2026-12-19T20:00:00+01:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537103","ko":"2026-12-19T20:15:00+01:00","home":"ZENTRO BASKET MADRID","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537105","ko":"2026-12-19T20:30:00+01:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537107","ko":"2026-12-20T12:00:00+01:00","home":"EL VENTERO CBV","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":13,"matches":[{"p":"2537112","ko":"2027-01-09T18:30:00+01:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537113","ko":"2027-01-09T19:00:00+01:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537114","ko":"2027-01-09T19:30:00+01:00","home":"C.B. LAS ROZAS","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537109","ko":"2027-01-09T20:00:00+01:00","home":"EB FELIPE ANTÓN","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537110","ko":"2027-01-09T20:00:00+01:00","home":"C.B. DADARMO DE GÜIMAR","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537111","ko":"2027-01-09T20:00:00+01:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537115","ko":"2027-01-09T20:00:00+01:00","home":"CB ARIDANE","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":14,"matches":[{"p":"2537119","ko":"2027-01-16T19:00:00+01:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537122","ko":"2027-01-16T19:00:00+01:00","home":"C.B. DADARMO DE GÜIMAR","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537118","ko":"2027-01-16T19:30:00+01:00","home":"C.B. LAS ROZAS","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537117","ko":"2027-01-16T20:00:00+01:00","home":"CB ARIDANE","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537121","ko":"2027-01-16T20:00:00+01:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537116","ko":"2027-01-16T20:15:00+01:00","home":"ZENTRO BASKET MADRID","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537120","ko":"2027-01-17T18:30:00+01:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":15,"matches":[{"p":"2537129","ko":"2027-01-23T18:30:00+01:00","home":"STOP BIOGÁS TOBARRA","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537125","ko":"2027-01-23T18:45:00+01:00","home":"CESUR DISTRITO OLIMPICO","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537127","ko":"2027-01-23T19:00:00+01:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537123","ko":"2027-01-23T19:30:00+01:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537124","ko":"2027-01-23T20:00:00+01:00","home":"EB FELIPE ANTÓN","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537126","ko":"2027-01-24T12:00:00+01:00","home":"EL VENTERO CBV","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537128","ko":"2027-01-24T12:00:00+01:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":16,"matches":[{"p":"2537130","ko":"2027-01-30T18:30:00+01:00","home":"STOP BIOGÁS TOBARRA","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537134","ko":"2027-01-30T19:00:00+01:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537136","ko":"2027-01-30T19:00:00+01:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537133","ko":"2027-01-30T19:30:00+01:00","home":"C.B. LAS ROZAS","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537132","ko":"2027-01-30T20:00:00+01:00","home":"CB ARIDANE","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537131","ko":"2027-01-30T20:15:00+01:00","home":"ZENTRO BASKET MADRID","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537135","ko":"2027-01-31T12:30:00+01:00","home":"EB FELIPE ANTÓN","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":17,"matches":[{"p":"2537139","ko":"2027-02-05T20:00:00+01:00","home":"EB FELIPE ANTÓN","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537140","ko":"2027-02-06T18:45:00+01:00","home":"CESUR DISTRITO OLIMPICO","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537142","ko":"2027-02-06T19:00:00+01:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537137","ko":"2027-02-06T19:30:00+01:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537138","ko":"2027-02-06T20:00:00+01:00","home":"C.B. DADARMO DE GÜIMAR","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537143","ko":"2027-02-06T20:30:00+01:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537141","ko":"2027-02-07T11:00:00+01:00","home":"EL VENTERO CBV","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":18,"matches":[{"p":"2537145","ko":"2027-02-13T18:30:00+01:00","home":"STOP BIOGÁS TOBARRA","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537148","ko":"2027-02-13T19:30:00+01:00","home":"C.B. LAS ROZAS","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537147","ko":"2027-02-13T20:00:00+01:00","home":"CB ARIDANE","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537150","ko":"2027-02-13T20:00:00+01:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537146","ko":"2027-02-13T20:15:00+01:00","home":"ZENTRO BASKET MADRID","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537144","ko":"2027-02-13T20:30:00+01:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537149","ko":"2027-02-14T12:00:00+01:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":19,"matches":[{"p":"2537153","ko":"2027-02-20T17:30:00+01:00","home":"C.B. DADARMO DE GÜIMAR","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537155","ko":"2027-02-20T18:45:00+01:00","home":"CESUR DISTRITO OLIMPICO","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537157","ko":"2027-02-20T19:00:00+01:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537151","ko":"2027-02-20T19:30:00+01:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537152","ko":"2027-02-20T20:00:00+01:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537154","ko":"2027-02-20T20:00:00+01:00","home":"EB FELIPE ANTÓN","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537156","ko":"2027-02-21T12:00:00+01:00","home":"EL VENTERO CBV","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":20,"matches":[{"p":"2537162","ko":"2027-02-27T14:00:00+01:00","home":"CB ARIDANE","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537160","ko":"2027-02-27T18:30:00+01:00","home":"STOP BIOGÁS TOBARRA","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537158","ko":"2027-02-27T19:00:00+01:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537164","ko":"2027-02-27T19:00:00+01:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537163","ko":"2027-02-27T19:30:00+01:00","home":"C.B. LAS ROZAS","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537161","ko":"2027-02-27T20:15:00+01:00","home":"ZENTRO BASKET MADRID","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537159","ko":"2027-02-27T20:30:00+01:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":21,"matches":[{"p":"2537170","ko":"2027-03-06T18:45:00+01:00","home":"CESUR DISTRITO OLIMPICO","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537165","ko":"2027-03-06T19:30:00+01:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537167","ko":"2027-03-06T20:00:00+01:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537168","ko":"2027-03-06T20:00:00+01:00","home":"C.B. DADARMO DE GÜIMAR","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537169","ko":"2027-03-06T20:00:00+01:00","home":"EB FELIPE ANTÓN","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537171","ko":"2027-03-07T12:00:00+01:00","home":"EL VENTERO CBV","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537166","ko":"2027-03-07T18:30:00+01:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":22,"matches":[{"p":"2537175","ko":"2027-03-13T18:30:00+01:00","home":"STOP BIOGÁS TOBARRA","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537173","ko":"2027-03-13T19:00:00+01:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537178","ko":"2027-03-13T19:30:00+01:00","home":"C.B. LAS ROZAS","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537177","ko":"2027-03-13T20:00:00+01:00","home":"CB ARIDANE","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537176","ko":"2027-03-13T20:15:00+01:00","home":"ZENTRO BASKET MADRID","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537174","ko":"2027-03-13T20:30:00+01:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537172","ko":"2027-03-14T12:00:00+01:00","home":"EL VENTERO CBV","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":23,"matches":[{"p":"2537179","ko":"2027-03-20T19:30:00+01:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537182","ko":"2027-03-20T20:00:00+01:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537184","ko":"2027-03-20T20:00:00+01:00","home":"EB FELIPE ANTÓN","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537185","ko":"2027-03-20T20:00:00+01:00","home":"CESUR DISTRITO OLIMPICO","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537180","ko":"2027-03-21T11:00:00+01:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537183","ko":"2027-03-21T13:00:00+01:00","home":"C.B. DADARMO DE GÜIMAR","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537181","ko":"2027-03-21T18:30:00+01:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":24,"matches":[{"p":"2537190","ko":"2027-04-03T18:30:00+02:00","home":"STOP BIOGÁS TOBARRA","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537186","ko":"2027-04-03T18:45:00+02:00","home":"CESUR DISTRITO OLIMPICO","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537188","ko":"2027-04-03T19:00:00+02:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537192","ko":"2027-04-03T20:00:00+02:00","home":"CB ARIDANE","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537191","ko":"2027-04-03T20:15:00+02:00","home":"ZENTRO BASKET MADRID","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537189","ko":"2027-04-03T20:30:00+02:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537187","ko":"2027-04-04T11:00:00+02:00","home":"EL VENTERO CBV","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":25,"matches":[{"p":"2537195","ko":"2027-04-10T19:00:00+02:00","home":"FUNDACION GLOBALCAJA LA RODA","away":"STOP BIOGÁS TOBARRA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537194","ko":"2027-04-10T19:30:00+02:00","home":"C.B. LAS ROZAS","away":"ZENTRO BASKET MADRID","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537193","ko":"2027-04-10T20:00:00+02:00","home":"CB ARIDANE","away":"AG MOVIALSA QUALITYSPORT CRIPTANA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537197","ko":"2027-04-10T20:00:00+02:00","home":"C. D. MENSAJERO ISLA DE LA PALMA","away":"BASKET GLOBALCAJA QUINTANAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537198","ko":"2027-04-10T20:00:00+02:00","home":"C.B. DADARMO DE GÜIMAR","away":"EL VENTERO CBV","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537199","ko":"2027-04-10T20:00:00+02:00","home":"EB FELIPE ANTÓN","away":"CESUR DISTRITO OLIMPICO","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537196","ko":"2027-04-11T18:30:00+02:00","home":"ARISTOS PARTIZÁN DE FUENLABRADA","away":"QUALIS C.B VILLA DE VALDEMORO","sh":null,"sa":null,"st":"pendiente","venue":null}]},{"j":26,"matches":[{"p":"2537200","ko":"2027-04-17T19:00:00+02:00","home":"AG MOVIALSA QUALITYSPORT CRIPTANA","away":"EB FELIPE ANTÓN","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537201","ko":"2027-04-17T19:00:00+02:00","home":"CESUR DISTRITO OLIMPICO","away":"C.B. DADARMO DE GÜIMAR","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537202","ko":"2027-04-17T19:00:00+02:00","home":"EL VENTERO CBV","away":"C. D. MENSAJERO ISLA DE LA PALMA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537203","ko":"2027-04-17T19:00:00+02:00","home":"BASKET GLOBALCAJA QUINTANAR","away":"ARISTOS PARTIZÁN DE FUENLABRADA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537204","ko":"2027-04-17T19:00:00+02:00","home":"QUALIS C.B VILLA DE VALDEMORO","away":"FUNDACION GLOBALCAJA LA RODA","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537205","ko":"2027-04-17T19:00:00+02:00","home":"STOP BIOGÁS TOBARRA","away":"C.B. LAS ROZAS","sh":null,"sa":null,"st":"pendiente","venue":null},{"p":"2537206","ko":"2027-04-17T19:00:00+02:00","home":"ZENTRO BASKET MADRID","away":"CB ARIDANE","sh":null,"sa":null,"st":"pendiente","venue":null}]}]}
+{
+  "updated": "2026-10-11T13:08:00+02:00",
+  "teams": [
+    "AG MOVIALSA QUALITYSPORT CRIPTANA",
+    "ARISTOS PARTIZÁN DE FUENLABRADA",
+    "BASKET GLOBALCAJA QUINTANAR",
+    "C. D. MENSAJERO ISLA DE LA PALMA",
+    "C.B. DADARMO DE GÜIMAR",
+    "C.B. LAS ROZAS",
+    "CB ARIDANE",
+    "CESUR DISTRITO OLIMPICO",
+    "EB FELIPE ANTÓN",
+    "EL VENTERO CBV",
+    "FUNDACION GLOBALCAJA LA RODA",
+    "QUALIS C.B VILLA DE VALDEMORO",
+    "STOP BIOGÁS TOBARRA",
+    "ZENTRO BASKET MADRID"
+  ],
+  "short": {
+    "AG MOVIALSA QUALITYSPORT CRIPTANA": "Criptana",
+    "ARISTOS PARTIZÁN DE FUENLABRADA": "Partizán Fuenlabrada",
+    "BASKET GLOBALCAJA QUINTANAR": "Quintanar",
+    "C. D. MENSAJERO ISLA DE LA PALMA": "Mensajero La Palma",
+    "C.B. DADARMO DE GÜIMAR": "Dadarmo Güímar",
+    "C.B. LAS ROZAS": "Las Rozas",
+    "CB ARIDANE": "Aridane",
+    "CESUR DISTRITO OLIMPICO": "Distrito Olímpico",
+    "EB FELIPE ANTÓN": "Felipe Antón",
+    "FUNDACION GLOBALCAJA LA RODA": "La Roda",
+    "QUALIS C.B VILLA DE VALDEMORO": "Valdemoro",
+    "STOP BIOGÁS TOBARRA": "Tobarra",
+    "ZENTRO BASKET MADRID": "Zentro Madrid",
+    "EL VENTERO CBV": "El Ventero"
+  },
+  "jornadas": [
+    {
+      "j": 1,
+      "matches": [
+        {
+          "p": "2537026",
+          "ko": "2026-10-03T18:30:00+02:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "CB ARIDANE",
+          "sh": 60,
+          "sa": 85,
+          "st": "final",
+          "venue": "Pabellón de la Granja, Tobarra (Albacete)"
+        },
+        {
+          "p": "2537028",
+          "ko": "2026-10-03T19:00:00+02:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": 77,
+          "sa": 81,
+          "st": "final",
+          "venue": "PABELLÓN ANGEL LANCHO, Quintanar del Rey (Cuenca)"
+        },
+        {
+          "p": "2537031",
+          "ko": "2026-10-03T19:15:00+02:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": 76,
+          "sa": 88,
+          "st": "final",
+          "venue": "Pabellón Multiusos Roberto Rodríguez Estrello, Santa Cruz de La Palma (Santa Cruz de Tenerife)"
+        },
+        {
+          "p": "2537025",
+          "ko": "2026-10-03T19:30:00+02:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": 45,
+          "sa": 75,
+          "st": "final",
+          "venue": "Pabellón Municipal de Criptana, Campo de Criptana (Ciudad Real)"
+        },
+        {
+          "p": "2537027",
+          "ko": "2026-10-03T20:30:00+02:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "C.B. LAS ROZAS",
+          "sh": 78,
+          "sa": 81,
+          "st": "final",
+          "venue": "JESUS ESPAÑA, PABELLON, Valdemoro (Madrid)"
+        },
+        {
+          "p": "2537030",
+          "ko": "2026-10-04T11:30:00+02:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": 74,
+          "sa": 72,
+          "st": "final",
+          "venue": "SAN BLAS, PDVO. MPAL., Madrid (Madrid)"
+        },
+        {
+          "p": "2537029",
+          "ko": "2026-10-04T12:00:00+02:00",
+          "home": "EL VENTERO CBV",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": 83,
+          "sa": 73,
+          "st": "final",
+          "venue": "Pabellón Municipal del Barrio de los Pintores, Villarrobledo (Albacete)"
+        }
+      ]
+    },
+    {
+      "j": 2,
+      "matches": [
+        {
+          "p": "2537034",
+          "ko": "2026-10-10T18:30:00+02:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": 77,
+          "sa": 76,
+          "st": "final",
+          "venue": "POLIDEPORTIVO FERNANDO MARTÍN, Fuenlabrada (Madrid)"
+        },
+        {
+          "p": "2537035",
+          "ko": "2026-10-10T19:00:00+02:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "EL VENTERO CBV",
+          "sh": 67,
+          "sa": 53,
+          "st": "final",
+          "venue": "JUAN JOSE LOZANO JAREÑO, Roda, La (Albacete)"
+        },
+        {
+          "p": "2537036",
+          "ko": "2026-10-10T19:30:00+02:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": 58,
+          "sa": 52,
+          "st": "final",
+          "venue": "ALFREDO ESPINIELLA, PABELLON, Rozas de Madrid, Las (Madrid)"
+        },
+        {
+          "p": "2537032",
+          "ko": "2026-10-10T20:00:00+02:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": 87,
+          "sa": 74,
+          "st": "final",
+          "venue": "Pabellón Municipal Quique Ruiz, Güímar (Santa Cruz de Tenerife)"
+        },
+        {
+          "p": "2537033",
+          "ko": "2026-10-10T20:00:00+02:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "EB FELIPE ANTÓN",
+          "sh": 80,
+          "sa": 68,
+          "st": "final",
+          "venue": "Pabellón Ciudad Deportiva Miraflores, Santa Cruz de La Palma (Santa Cruz de Tenerife)"
+        },
+        {
+          "p": "2537037",
+          "ko": "2026-10-10T20:00:00+02:00",
+          "home": "CB ARIDANE",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": 108,
+          "sa": 80,
+          "st": "final",
+          "venue": "PABELLÓN SEVERO RODRÍGUEZ, Llanos de Aridane, Los (Santa Cruz de Tenerife)"
+        },
+        {
+          "p": "2537038",
+          "ko": "2026-10-10T20:15:00+02:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": 85,
+          "sa": 72,
+          "st": "final",
+          "venue": "ANTONIO DIAZ MIGUEL, PDVO. MPAL., Madrid (Madrid)"
+        }
+      ]
+    },
+    {
+      "j": 3,
+      "matches": [
+        {
+          "p": "2537045",
+          "ko": "2026-10-17T13:00:00+02:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": "Pabellón Municipal Tacoronte, Tacoronte (Santa Cruz de Tenerife)"
+        },
+        {
+          "p": "2537043",
+          "ko": "2026-10-17T18:45:00+02:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": "SAN BLAS, PDVO. MPAL., Madrid (Madrid)"
+        },
+        {
+          "p": "2537039",
+          "ko": "2026-10-17T19:30:00+02:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": "Pabellón Municipal de Criptana, Campo de Criptana (Ciudad Real)"
+        },
+        {
+          "p": "2537044",
+          "ko": "2026-10-17T20:00:00+02:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "EB FELIPE ANTÓN",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": "POLIDEPORTIVO FERNANDO MARTÍN, Fuenlabrada (Madrid)"
+        },
+        {
+          "p": "2537040",
+          "ko": "2026-10-17T20:30:00+02:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": "JESUS ESPAÑA, PABELLON, Valdemoro (Madrid)"
+        },
+        {
+          "p": "2537041",
+          "ko": "2026-10-18T11:00:00+02:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "CB ARIDANE",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": "PABELLÓN ANGEL LANCHO, Quintanar del Rey (Cuenca)"
+        },
+        {
+          "p": "2537042",
+          "ko": "2026-10-18T12:00:00+02:00",
+          "home": "EL VENTERO CBV",
+          "away": "C.B. LAS ROZAS",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": "Pabellón Municipal del Barrio de los Pintores, Villarrobledo (Albacete)"
+        }
+      ]
+    },
+    {
+      "j": 4,
+      "matches": [
+        {
+          "p": "2537050",
+          "ko": "2026-10-23T21:00:00+02:00",
+          "home": "CB ARIDANE",
+          "away": "EL VENTERO CBV",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537052",
+          "ko": "2026-10-24T18:30:00+02:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537049",
+          "ko": "2026-10-24T19:30:00+02:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537046",
+          "ko": "2026-10-24T20:00:00+02:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537051",
+          "ko": "2026-10-24T20:15:00+02:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537048",
+          "ko": "2026-10-25T11:00:00+01:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "EB FELIPE ANTÓN",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537047",
+          "ko": "2026-10-25T13:00:00+01:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 5,
+      "matches": [
+        {
+          "p": "2537056",
+          "ko": "2026-10-31T18:45:00+01:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "CB ARIDANE",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537054",
+          "ko": "2026-10-31T19:00:00+01:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537053",
+          "ko": "2026-10-31T19:30:00+01:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537057",
+          "ko": "2026-10-31T20:00:00+01:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "C.B. LAS ROZAS",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537058",
+          "ko": "2026-10-31T20:00:00+01:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537059",
+          "ko": "2026-10-31T20:00:00+01:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537055",
+          "ko": "2026-11-01T12:00:00+01:00",
+          "home": "EL VENTERO CBV",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 6,
+      "matches": [
+        {
+          "p": "2537062",
+          "ko": "2026-11-07T16:30:00+01:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537065",
+          "ko": "2026-11-07T18:30:00+01:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "EL VENTERO CBV",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537061",
+          "ko": "2026-11-07T19:00:00+01:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537063",
+          "ko": "2026-11-07T20:00:00+01:00",
+          "home": "CB ARIDANE",
+          "away": "EB FELIPE ANTÓN",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537064",
+          "ko": "2026-11-07T20:15:00+01:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537066",
+          "ko": "2026-11-07T20:30:00+01:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537060",
+          "ko": "2026-11-08T18:30:00+01:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 7,
+      "matches": [
+        {
+          "p": "2537071",
+          "ko": "2026-11-14T17:00:00+01:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "CB ARIDANE",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537073",
+          "ko": "2026-11-14T18:30:00+01:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537069",
+          "ko": "2026-11-14T18:45:00+01:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537067",
+          "ko": "2026-11-14T19:30:00+01:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537070",
+          "ko": "2026-11-14T20:00:00+01:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537072",
+          "ko": "2026-11-14T20:00:00+01:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "C.B. LAS ROZAS",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537068",
+          "ko": "2026-11-15T12:00:00+01:00",
+          "home": "EL VENTERO CBV",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 8,
+      "matches": [
+        {
+          "p": "2537077",
+          "ko": "2026-11-21T13:15:00+01:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537078",
+          "ko": "2026-11-21T18:30:00+01:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "EB FELIPE ANTÓN",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537074",
+          "ko": "2026-11-21T19:00:00+01:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537080",
+          "ko": "2026-11-21T19:00:00+01:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "EL VENTERO CBV",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537076",
+          "ko": "2026-11-21T20:00:00+01:00",
+          "home": "CB ARIDANE",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537079",
+          "ko": "2026-11-21T20:30:00+01:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537075",
+          "ko": "2026-11-22T19:30:00+01:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 9,
+      "matches": [
+        {
+          "p": "2537087",
+          "ko": "2026-11-28T19:00:00+01:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "C.B. LAS ROZAS",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537081",
+          "ko": "2026-11-28T19:30:00+01:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "EL VENTERO CBV",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537082",
+          "ko": "2026-11-28T20:00:00+01:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537083",
+          "ko": "2026-11-28T20:00:00+01:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537084",
+          "ko": "2026-11-28T20:00:00+01:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537085",
+          "ko": "2026-11-28T20:00:00+01:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537086",
+          "ko": "2026-11-29T12:00:00+01:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "CB ARIDANE",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 10,
+      "matches": [
+        {
+          "p": "2537091",
+          "ko": "2026-12-05T18:30:00+01:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537093",
+          "ko": "2026-12-05T19:00:00+01:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "EB FELIPE ANTÓN",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537088",
+          "ko": "2026-12-05T19:30:00+01:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537090",
+          "ko": "2026-12-05T20:15:00+01:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537089",
+          "ko": "2026-12-06T12:00:00+01:00",
+          "home": "CB ARIDANE",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537094",
+          "ko": "2026-12-06T12:00:00+01:00",
+          "home": "EL VENTERO CBV",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537092",
+          "ko": "2026-12-06T15:30:00+01:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 11,
+      "matches": [
+        {
+          "p": "2537100",
+          "ko": "2026-12-12T19:00:00+01:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537095",
+          "ko": "2026-12-12T19:30:00+01:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537101",
+          "ko": "2026-12-12T19:30:00+01:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "CB ARIDANE",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537096",
+          "ko": "2026-12-12T20:00:00+01:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "EL VENTERO CBV",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537097",
+          "ko": "2026-12-12T20:00:00+01:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537098",
+          "ko": "2026-12-12T20:00:00+01:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537099",
+          "ko": "2026-12-13T18:30:00+01:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 12,
+      "matches": [
+        {
+          "p": "2537104",
+          "ko": "2026-12-19T18:30:00+01:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537108",
+          "ko": "2026-12-19T18:45:00+01:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "EB FELIPE ANTÓN",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537106",
+          "ko": "2026-12-19T19:00:00+01:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537102",
+          "ko": "2026-12-19T20:00:00+01:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "CB ARIDANE",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537103",
+          "ko": "2026-12-19T20:15:00+01:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "C.B. LAS ROZAS",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537105",
+          "ko": "2026-12-19T20:30:00+01:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537107",
+          "ko": "2026-12-20T12:00:00+01:00",
+          "home": "EL VENTERO CBV",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 13,
+      "matches": [
+        {
+          "p": "2537112",
+          "ko": "2027-01-09T18:30:00+01:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537113",
+          "ko": "2027-01-09T19:00:00+01:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537114",
+          "ko": "2027-01-09T19:30:00+01:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537109",
+          "ko": "2027-01-09T20:00:00+01:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537110",
+          "ko": "2027-01-09T20:00:00+01:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537111",
+          "ko": "2027-01-09T20:00:00+01:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "EL VENTERO CBV",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537115",
+          "ko": "2027-01-09T20:00:00+01:00",
+          "home": "CB ARIDANE",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 14,
+      "matches": [
+        {
+          "p": "2537119",
+          "ko": "2027-01-16T19:00:00+01:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537122",
+          "ko": "2027-01-16T19:00:00+01:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "EB FELIPE ANTÓN",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537118",
+          "ko": "2027-01-16T19:30:00+01:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537117",
+          "ko": "2027-01-16T20:00:00+01:00",
+          "home": "CB ARIDANE",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537121",
+          "ko": "2027-01-16T20:00:00+01:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537116",
+          "ko": "2027-01-16T20:15:00+01:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537120",
+          "ko": "2027-01-17T18:30:00+01:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "EL VENTERO CBV",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 15,
+      "matches": [
+        {
+          "p": "2537129",
+          "ko": "2027-01-23T18:30:00+01:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537125",
+          "ko": "2027-01-23T18:45:00+01:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537127",
+          "ko": "2027-01-23T19:00:00+01:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "C.B. LAS ROZAS",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537123",
+          "ko": "2027-01-23T19:30:00+01:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537124",
+          "ko": "2027-01-23T20:00:00+01:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537126",
+          "ko": "2027-01-24T12:00:00+01:00",
+          "home": "EL VENTERO CBV",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537128",
+          "ko": "2027-01-24T12:00:00+01:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "CB ARIDANE",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 16,
+      "matches": [
+        {
+          "p": "2537130",
+          "ko": "2027-01-30T18:30:00+01:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537134",
+          "ko": "2027-01-30T19:00:00+01:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537136",
+          "ko": "2027-01-30T19:00:00+01:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537133",
+          "ko": "2027-01-30T19:30:00+01:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "EL VENTERO CBV",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537132",
+          "ko": "2027-01-30T20:00:00+01:00",
+          "home": "CB ARIDANE",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537131",
+          "ko": "2027-01-30T20:15:00+01:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537135",
+          "ko": "2027-01-31T12:30:00+01:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 17,
+      "matches": [
+        {
+          "p": "2537139",
+          "ko": "2027-02-05T20:00:00+01:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537140",
+          "ko": "2027-02-06T18:45:00+01:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "C.B. LAS ROZAS",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537142",
+          "ko": "2027-02-06T19:00:00+01:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537137",
+          "ko": "2027-02-06T19:30:00+01:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537138",
+          "ko": "2027-02-06T20:00:00+01:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537143",
+          "ko": "2027-02-06T20:30:00+01:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537141",
+          "ko": "2027-02-07T11:00:00+01:00",
+          "home": "EL VENTERO CBV",
+          "away": "CB ARIDANE",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 18,
+      "matches": [
+        {
+          "p": "2537145",
+          "ko": "2027-02-13T18:30:00+01:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537148",
+          "ko": "2027-02-13T19:30:00+01:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "EB FELIPE ANTÓN",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537147",
+          "ko": "2027-02-13T20:00:00+01:00",
+          "home": "CB ARIDANE",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537150",
+          "ko": "2027-02-13T20:00:00+01:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537146",
+          "ko": "2027-02-13T20:15:00+01:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "EL VENTERO CBV",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537144",
+          "ko": "2027-02-13T20:30:00+01:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537149",
+          "ko": "2027-02-14T12:00:00+01:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 19,
+      "matches": [
+        {
+          "p": "2537153",
+          "ko": "2027-02-20T17:30:00+01:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "C.B. LAS ROZAS",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537155",
+          "ko": "2027-02-20T18:45:00+01:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537157",
+          "ko": "2027-02-20T19:00:00+01:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537151",
+          "ko": "2027-02-20T19:30:00+01:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537152",
+          "ko": "2027-02-20T20:00:00+01:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537154",
+          "ko": "2027-02-20T20:00:00+01:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "CB ARIDANE",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537156",
+          "ko": "2027-02-21T12:00:00+01:00",
+          "home": "EL VENTERO CBV",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 20,
+      "matches": [
+        {
+          "p": "2537162",
+          "ko": "2027-02-27T14:00:00+01:00",
+          "home": "CB ARIDANE",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537160",
+          "ko": "2027-02-27T18:30:00+01:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537158",
+          "ko": "2027-02-27T19:00:00+01:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537164",
+          "ko": "2027-02-27T19:00:00+01:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537163",
+          "ko": "2027-02-27T19:30:00+01:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537161",
+          "ko": "2027-02-27T20:15:00+01:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "EB FELIPE ANTÓN",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537159",
+          "ko": "2027-02-27T20:30:00+01:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "EL VENTERO CBV",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 21,
+      "matches": [
+        {
+          "p": "2537170",
+          "ko": "2027-03-06T18:45:00+01:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537165",
+          "ko": "2027-03-06T19:30:00+01:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537167",
+          "ko": "2027-03-06T20:00:00+01:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "CB ARIDANE",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537168",
+          "ko": "2027-03-06T20:00:00+01:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537169",
+          "ko": "2027-03-06T20:00:00+01:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537171",
+          "ko": "2027-03-07T12:00:00+01:00",
+          "home": "EL VENTERO CBV",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537166",
+          "ko": "2027-03-07T18:30:00+01:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "C.B. LAS ROZAS",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 22,
+      "matches": [
+        {
+          "p": "2537175",
+          "ko": "2027-03-13T18:30:00+01:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537173",
+          "ko": "2027-03-13T19:00:00+01:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537178",
+          "ko": "2027-03-13T19:30:00+01:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537177",
+          "ko": "2027-03-13T20:00:00+01:00",
+          "home": "CB ARIDANE",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537176",
+          "ko": "2027-03-13T20:15:00+01:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537174",
+          "ko": "2027-03-13T20:30:00+01:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "EB FELIPE ANTÓN",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537172",
+          "ko": "2027-03-14T12:00:00+01:00",
+          "home": "EL VENTERO CBV",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 23,
+      "matches": [
+        {
+          "p": "2537179",
+          "ko": "2027-03-20T19:30:00+01:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "C.B. LAS ROZAS",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537182",
+          "ko": "2027-03-20T20:00:00+01:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537184",
+          "ko": "2027-03-20T20:00:00+01:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537185",
+          "ko": "2027-03-20T20:00:00+01:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "EL VENTERO CBV",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537180",
+          "ko": "2027-03-21T11:00:00+01:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "CB ARIDANE",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537183",
+          "ko": "2027-03-21T13:00:00+01:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537181",
+          "ko": "2027-03-21T18:30:00+01:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 24,
+      "matches": [
+        {
+          "p": "2537190",
+          "ko": "2027-04-03T18:30:00+02:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537186",
+          "ko": "2027-04-03T18:45:00+02:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537188",
+          "ko": "2027-04-03T19:00:00+02:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537192",
+          "ko": "2027-04-03T20:00:00+02:00",
+          "home": "CB ARIDANE",
+          "away": "C.B. LAS ROZAS",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537191",
+          "ko": "2027-04-03T20:15:00+02:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537189",
+          "ko": "2027-04-03T20:30:00+02:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537187",
+          "ko": "2027-04-04T11:00:00+02:00",
+          "home": "EL VENTERO CBV",
+          "away": "EB FELIPE ANTÓN",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 25,
+      "matches": [
+        {
+          "p": "2537195",
+          "ko": "2027-04-10T19:00:00+02:00",
+          "home": "FUNDACION GLOBALCAJA LA RODA",
+          "away": "STOP BIOGÁS TOBARRA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537194",
+          "ko": "2027-04-10T19:30:00+02:00",
+          "home": "C.B. LAS ROZAS",
+          "away": "ZENTRO BASKET MADRID",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537193",
+          "ko": "2027-04-10T20:00:00+02:00",
+          "home": "CB ARIDANE",
+          "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537197",
+          "ko": "2027-04-10T20:00:00+02:00",
+          "home": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537198",
+          "ko": "2027-04-10T20:00:00+02:00",
+          "home": "C.B. DADARMO DE GÜIMAR",
+          "away": "EL VENTERO CBV",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537199",
+          "ko": "2027-04-10T20:00:00+02:00",
+          "home": "EB FELIPE ANTÓN",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537196",
+          "ko": "2027-04-11T18:30:00+02:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "QUALIS C.B VILLA DE VALDEMORO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "j": 26,
+      "matches": [
+        {
+          "p": "2537200",
+          "ko": "2027-04-17T19:00:00+02:00",
+          "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+          "away": "EB FELIPE ANTÓN",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537201",
+          "ko": "2027-04-17T19:00:00+02:00",
+          "home": "CESUR DISTRITO OLIMPICO",
+          "away": "C.B. DADARMO DE GÜIMAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537202",
+          "ko": "2027-04-17T19:00:00+02:00",
+          "home": "EL VENTERO CBV",
+          "away": "C. D. MENSAJERO ISLA DE LA PALMA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537203",
+          "ko": "2027-04-17T19:00:00+02:00",
+          "home": "BASKET GLOBALCAJA QUINTANAR",
+          "away": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537204",
+          "ko": "2027-04-17T19:00:00+02:00",
+          "home": "QUALIS C.B VILLA DE VALDEMORO",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537205",
+          "ko": "2027-04-17T19:00:00+02:00",
+          "home": "STOP BIOGÁS TOBARRA",
+          "away": "C.B. LAS ROZAS",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        },
+        {
+          "p": "2537206",
+          "ko": "2027-04-17T19:00:00+02:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "CB ARIDANE",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": null
+        }
+      ]
+    }
+  ]
+}
