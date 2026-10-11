@@ -1,7 +1,7 @@
 /* Service worker: funcionamiento sin conexión y notificaciones push */
-const CACHE = 'ventero-v2';
+const CACHE = 'ventero-v3';
 const SHELL = ['./', 'index.html', 'app.css', 'app.js', 'config.js', 'manifest.webmanifest',
-  'icons/logo.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/favicon.png', 'data/season.json'];
+  'icons/logo.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/favicon.png', 'data/season.json', 'data/liga.json', 'data/equipos.json'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
@@ -14,12 +14,12 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   if (e.request.method !== 'GET') return;
-  if (url.pathname.endsWith('/data/season.json')) {
+  if (url.origin === location.origin && url.pathname.includes('/data/')) {
+    const key = url.origin + url.pathname; // sin ?t=… para que la copia sin conexión sirva
     e.respondWith(fetch(e.request).then((r) => {
-      const copy = r.clone();
-      caches.open(CACHE).then((c) => c.put('data/season.json', copy));
+      if (r.ok) { const copy = r.clone(); caches.open(CACHE).then((c) => c.put(key, copy)); }
       return r;
-    }).catch(() => caches.match('data/season.json')));
+    }).catch(() => caches.match(key)));
     return;
   }
   if (url.origin !== location.origin && !url.hostname.includes('fonts.g')) return;
@@ -35,7 +35,7 @@ self.addEventListener('fetch', (e) => {
 self.addEventListener('push', (e) => {
   let d = {};
   try { d = e.data ? e.data.json() : {}; } catch { d = { body: e.data && e.data.text() }; }
-  e.waitUntil(self.registration.showNotification(d.title || 'El Ventero CBV', {
+  e.waitUntil(self.registration.showNotification(d.title || 'Ventero CBV', {
     body: d.body || '',
     icon: 'icons/icon-192.png',
     badge: 'icons/favicon.png',

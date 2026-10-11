@@ -1,7 +1,7 @@
 {
-  "name": "El Ventero CBV · Temporada 2026/27",
-  "short_name": "Ventero",
-  "description": "Calendario, resultados, estadísticas y avisos de El Ventero CBV en Tercera FEB.",
+  "name": "Ventero CBV",
+  "short_name": "Ventero CBV",
+  "description": "Calendario, resultados, clasificación y estadísticas de El Ventero CBV y del grupo B-A de Tercera FEB.",
   "lang": "es",
   "start_url": "./#inicio",
   "scope": "./",
