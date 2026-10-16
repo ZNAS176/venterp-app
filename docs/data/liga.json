@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T08:41:00+02:00",
+  "updated": "2026-10-16T08:40:00+02:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -319,7 +319,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "JUAN JOSE LOZANO JAREÑO, Roda, La (Albacete)"
         },
         {
           "p": "2537047",
@@ -329,7 +329,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "POLIDEPORTIVO FERNANDO MARTÍN, Fuenlabrada (Madrid)"
         }
       ]
     },
