@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T08:36:00+02:00",
+  "updated": "2026-10-17T15:30:00+02:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -191,9 +191,9 @@
           "ko": "2026-10-17T13:00:00+02:00",
           "home": "C.B. DADARMO DE GÜIMAR",
           "away": "C. D. MENSAJERO ISLA DE LA PALMA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 72,
+          "sa": 71,
+          "st": "final",
           "venue": "Pabellón Municipal Tacoronte, Tacoronte (Santa Cruz de Tenerife)"
         },
         {
