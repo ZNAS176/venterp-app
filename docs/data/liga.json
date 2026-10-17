@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T21:26:00+02:00",
+  "updated": "2026-10-17T22:29:00+02:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -211,9 +211,9 @@
           "ko": "2026-10-17T19:30:00+02:00",
           "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
           "away": "STOP BIOGÁS TOBARRA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 57,
+          "sa": 78,
+          "st": "final",
           "venue": "Pabellón Municipal de Criptana, Campo de Criptana (Ciudad Real)"
         },
         {
@@ -221,9 +221,9 @@
           "ko": "2026-10-17T20:00:00+02:00",
           "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
           "away": "EB FELIPE ANTÓN",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 75,
+          "sa": 83,
+          "st": "final",
           "venue": "POLIDEPORTIVO FERNANDO MARTÍN, Fuenlabrada (Madrid)"
         },
         {
