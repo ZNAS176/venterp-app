@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T15:30:00+02:00",
+  "updated": "2026-10-17T21:26:00+02:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -201,9 +201,9 @@
           "ko": "2026-10-17T18:45:00+02:00",
           "home": "CESUR DISTRITO OLIMPICO",
           "away": "FUNDACION GLOBALCAJA LA RODA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 88,
+          "sa": 83,
+          "st": "final",
           "venue": "SAN BLAS, PDVO. MPAL., Madrid (Madrid)"
         },
         {
