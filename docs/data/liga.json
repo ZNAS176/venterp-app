@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:40:00+02:00",
+  "updated": "2026-10-17T08:36:00+02:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -302,16 +302,6 @@
           "venue": "Pabellón Ciudad Deportiva Miraflores, Santa Cruz de La Palma (Santa Cruz de Tenerife)"
         },
         {
-          "p": "2537051",
-          "ko": "2026-10-24T20:15:00+02:00",
-          "home": "ZENTRO BASKET MADRID",
-          "away": "BASKET GLOBALCAJA QUINTANAR",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
-          "venue": "ANTONIO DIAZ MIGUEL, PDVO. MPAL., Madrid (Madrid)"
-        },
-        {
           "p": "2537048",
           "ko": "2026-10-25T11:00:00+01:00",
           "home": "FUNDACION GLOBALCAJA LA RODA",
@@ -330,6 +320,16 @@
           "sa": null,
           "st": "pendiente",
           "venue": "POLIDEPORTIVO FERNANDO MARTÍN, Fuenlabrada (Madrid)"
+        },
+        {
+          "p": "2537051",
+          "ko": "2026-11-10T19:45:00+01:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "BASKET GLOBALCAJA QUINTANAR",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": "ANTONIO DIAZ MIGUEL, PDVO. MPAL., Madrid (Madrid)"
         }
       ]
     },
