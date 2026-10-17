@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T22:29:00+02:00",
+  "updated": "2026-10-17T23:28:00+02:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -231,9 +231,9 @@
           "ko": "2026-10-17T20:30:00+02:00",
           "home": "QUALIS C.B VILLA DE VALDEMORO",
           "away": "ZENTRO BASKET MADRID",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 78,
+          "sa": 95,
+          "st": "final",
           "venue": "JESUS ESPAÑA, PABELLON, Valdemoro (Madrid)"
         },
         {
