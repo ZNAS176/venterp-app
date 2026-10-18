@@ -1,7 +1,7 @@
 {
   "team": "EL VENTERO CBV",
   "competition": "Tercera FEB · Grupo B-A · 2026/27",
-  "updated": "2026-10-18T14:34:00+02:00",
+  "updated": "2026-10-18T22:14:00+02:00",
   "homeVenue": "Pabellón Municipal del Barrio de los Pintores, Villarrobledo",
   "short": {
     "AG MOVIALSA QUALITYSPORT CRIPTANA": "Criptana",
@@ -928,7 +928,7 @@
     "2027-04-17"
   ],
   "standings": {
-    "updated": "2026-10-17T23:28:00+02:00",
+    "updated": "2026-10-18T22:14:00+02:00",
     "jornada": "Jornada 3(18/10/2026)",
     "rows": [
       {
@@ -956,24 +956,24 @@
       {
         "pos": 3,
         "team": "CB ARIDANE",
-        "pj": 2,
+        "pj": 3,
         "pg": 2,
-        "pp": 0,
-        "pf": 193,
-        "pc": 140,
-        "pt": 53,
-        "racha": "100,0%"
+        "pp": 1,
+        "pf": 266,
+        "pc": 234,
+        "pt": 32,
+        "racha": "66,7%"
       },
       {
         "pos": 4,
-        "team": "C.B. LAS ROZAS",
-        "pj": 2,
+        "team": "EL VENTERO CBV",
+        "pj": 3,
         "pg": 2,
-        "pp": 0,
-        "pf": 139,
-        "pc": 130,
-        "pt": 9,
-        "racha": "100,0%"
+        "pp": 1,
+        "pf": 226,
+        "pc": 203,
+        "pt": 23,
+        "racha": "66,7%"
       },
       {
         "pos": 5,
@@ -999,17 +999,28 @@
       },
       {
         "pos": 7,
-        "team": "EL VENTERO CBV",
-        "pj": 2,
-        "pg": 1,
+        "team": "C.B. LAS ROZAS",
+        "pj": 3,
+        "pg": 2,
         "pp": 1,
-        "pf": 136,
-        "pc": 140,
-        "pt": -4,
-        "racha": "50,0%"
+        "pf": 202,
+        "pc": 220,
+        "pt": -18,
+        "racha": "66,7%"
       },
       {
         "pos": 8,
+        "team": "BASKET GLOBALCAJA QUINTANAR",
+        "pj": 3,
+        "pg": 1,
+        "pp": 2,
+        "pf": 223,
+        "pc": 212,
+        "pt": 11,
+        "racha": "33,3%"
+      },
+      {
+        "pos": 9,
         "team": "C. D. MENSAJERO ISLA DE LA PALMA",
         "pj": 3,
         "pg": 1,
@@ -1020,7 +1031,7 @@
         "racha": "33,3%"
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "EB FELIPE ANTÓN",
         "pj": 3,
         "pg": 1,
@@ -1031,7 +1042,7 @@
         "racha": "33,3%"
       },
       {
-        "pos": 10,
+        "pos": 11,
         "team": "ARISTOS PARTIZÁN DE FUENLABRADA",
         "pj": 3,
         "pg": 1,
@@ -1042,7 +1053,7 @@
         "racha": "33,3%"
       },
       {
-        "pos": 11,
+        "pos": 12,
         "team": "STOP BIOGÁS TOBARRA",
         "pj": 3,
         "pg": 1,
@@ -1051,17 +1062,6 @@
         "pc": 227,
         "pt": -17,
         "racha": "33,3%"
-      },
-      {
-        "pos": 12,
-        "team": "BASKET GLOBALCAJA QUINTANAR",
-        "pj": 2,
-        "pg": 0,
-        "pp": 2,
-        "pf": 129,
-        "pc": 139,
-        "pt": -10,
-        "racha": "0,0%"
       },
       {
         "pos": 13,
