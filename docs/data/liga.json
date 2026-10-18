@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T23:28:00+02:00",
+  "updated": "2026-10-18T13:28:00+02:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -241,9 +241,9 @@
           "ko": "2026-10-18T11:00:00+02:00",
           "home": "BASKET GLOBALCAJA QUINTANAR",
           "away": "CB ARIDANE",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 94,
+          "sa": 73,
+          "st": "final",
           "venue": "PABELLÓN ANGEL LANCHO, Quintanar del Rey (Cuenca)"
         },
         {
