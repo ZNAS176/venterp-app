@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T08:41:00+02:00",
+  "updated": "2026-10-23T23:32:00+02:00",
   "teams": {
     "STOP BIOGÁS TOBARRA": {
       "pj": 3,
@@ -145,10 +145,10 @@
       ]
     },
     "CB ARIDANE": {
-      "pj": 3,
+      "pj": 4,
       "pg": 2,
-      "pf": 266,
-      "pc": 234,
+      "pf": 325,
+      "pc": 310,
       "games": [
         {
           "j": 1,
@@ -161,49 +161,53 @@
         {
           "j": 3,
           "p": "2537041"
+        },
+        {
+          "j": 4,
+          "p": "2537050"
         }
       ],
       "players": [
         {
           "n": "GONZÁLEZ CHÁVEZ, JAVIER",
           "d": "7",
-          "pj": 2,
-          "sec": 2820,
-          "pts": 27,
-          "reb": 6,
-          "ast": 4,
-          "rob": 2,
-          "val": 36
+          "pj": 3,
+          "sec": 4316,
+          "pts": 39,
+          "reb": 9,
+          "ast": 6,
+          "rob": 4,
+          "val": 47
         },
         {
           "n": "BALSELLS PLAZA, ORIOL",
           "d": "10",
-          "pj": 3,
-          "sec": 4390,
-          "pts": 35,
-          "reb": 11,
-          "ast": 22,
+          "pj": 4,
+          "sec": 5604,
+          "pts": 44,
+          "reb": 16,
+          "ast": 23,
           "rob": 5,
-          "val": 55
+          "val": 61
         },
         {
           "n": "GUEYE, SERIGNE MODOU",
           "d": "11",
-          "pj": 3,
-          "sec": 3255,
-          "pts": 31,
-          "reb": 16,
+          "pj": 4,
+          "sec": 4294,
+          "pts": 38,
+          "reb": 21,
           "ast": 1,
-          "rob": 3,
-          "val": 34
+          "rob": 4,
+          "val": 42
         },
         {
           "n": "JIMÉNEZ BARRETO, ALEJANDRO",
           "d": "12",
-          "pj": 3,
-          "sec": 2946,
+          "pj": 4,
+          "sec": 3572,
           "pts": 18,
-          "reb": 3,
+          "reb": 4,
           "ast": 1,
           "rob": 1,
           "val": 10
@@ -211,32 +215,32 @@
         {
           "n": "CARRAL ESCUDERO, GONZALO",
           "d": "13",
-          "pj": 3,
-          "sec": 3585,
-          "pts": 21,
-          "reb": 6,
+          "pj": 4,
+          "sec": 4910,
+          "pts": 29,
+          "reb": 8,
           "ast": 5,
           "rob": 2,
-          "val": 14
+          "val": 18
         },
         {
           "n": "VIDAL RODRIGUEZ, ENRIQUE",
           "d": "14",
-          "pj": 3,
-          "sec": 3670,
-          "pts": 16,
-          "reb": 7,
-          "ast": 4,
-          "rob": 4,
-          "val": 19
+          "pj": 4,
+          "sec": 4646,
+          "pts": 18,
+          "reb": 8,
+          "ast": 6,
+          "rob": 5,
+          "val": 20
         },
         {
           "n": "MEJÍA ACOSTA , GERARD",
           "d": "20",
-          "pj": 3,
-          "sec": 4061,
-          "pts": 47,
-          "reb": 15,
+          "pj": 4,
+          "sec": 5300,
+          "pts": 52,
+          "reb": 20,
           "ast": 4,
           "rob": 3,
           "val": 51
@@ -244,35 +248,35 @@
         {
           "n": "VIDAL RODRIGUEZ, ALBERTO",
           "d": "21",
-          "pj": 3,
-          "sec": 2909,
-          "pts": 20,
-          "reb": 8,
-          "ast": 0,
+          "pj": 4,
+          "sec": 3922,
+          "pts": 22,
+          "reb": 13,
+          "ast": 1,
           "rob": 1,
           "val": 16
         },
         {
           "n": "MENDES KOVACS, KRISTIAN HENDRIX",
           "d": "22",
-          "pj": 3,
-          "sec": 3254,
-          "pts": 17,
-          "reb": 10,
-          "ast": 4,
+          "pj": 4,
+          "sec": 4453,
+          "pts": 21,
+          "reb": 13,
+          "ast": 5,
           "rob": 6,
-          "val": 14
+          "val": 12
         },
         {
           "n": "BOUNDI, TAHIROU DICKO",
           "d": "34",
-          "pj": 3,
-          "sec": 4223,
-          "pts": 34,
-          "reb": 28,
+          "pj": 4,
+          "sec": 5610,
+          "pts": 42,
+          "reb": 35,
           "ast": 3,
-          "rob": 2,
-          "val": 55
+          "rob": 3,
+          "val": 66
         },
         {
           "n": "MATÍAS RODRÍGUEZ, GABRIEL",
@@ -288,13 +292,13 @@
         {
           "n": "PILSCIKOVS, MARKUSS",
           "d": "0",
-          "pj": 1,
-          "sec": 777,
-          "pts": 0,
-          "reb": 2,
-          "ast": 0,
+          "pj": 2,
+          "sec": 1263,
+          "pts": 2,
+          "reb": 3,
+          "ast": 1,
           "rob": 1,
-          "val": 3
+          "val": 5
         }
       ]
     },
@@ -1938,10 +1942,10 @@
       ]
     },
     "EL VENTERO CBV": {
-      "pj": 3,
-      "pg": 2,
-      "pf": 226,
-      "pc": 203,
+      "pj": 4,
+      "pg": 3,
+      "pf": 302,
+      "pc": 262,
       "games": [
         {
           "j": 1,
@@ -1954,41 +1958,45 @@
         {
           "j": 3,
           "p": "2537042"
+        },
+        {
+          "j": 4,
+          "p": "2537050"
         }
       ],
       "players": [
         {
           "n": "JANGA, RYCHELL ERICK",
           "d": "0",
-          "pj": 3,
-          "sec": 4016,
-          "pts": 28,
-          "reb": 10,
-          "ast": 7,
-          "rob": 1,
-          "val": 23
+          "pj": 4,
+          "sec": 5791,
+          "pts": 33,
+          "reb": 17,
+          "ast": 10,
+          "rob": 2,
+          "val": 25
         },
         {
           "n": "CAULIN TORNERO, ALEJANDRO",
           "d": "3",
-          "pj": 3,
-          "sec": 2086,
+          "pj": 4,
+          "sec": 2527,
           "pts": 11,
-          "reb": 10,
+          "reb": 12,
           "ast": 1,
           "rob": 1,
-          "val": 11
+          "val": 13
         },
         {
           "n": "ANDRADE CORREIA E SILVA, HUGO FRANCISCO",
           "d": "4",
-          "pj": 3,
-          "sec": 4363,
-          "pts": 32,
-          "reb": 14,
-          "ast": 9,
+          "pj": 4,
+          "sec": 5791,
+          "pts": 45,
+          "reb": 17,
+          "ast": 13,
           "rob": 3,
-          "val": 31
+          "val": 41
         },
         {
           "n": "JIMENEZ MARTINEZ, LUIS",
@@ -2004,79 +2012,79 @@
         {
           "n": "JOAO, ALDEMIRO SOARES MANUEL",
           "d": "7",
-          "pj": 3,
-          "sec": 4564,
-          "pts": 29,
-          "reb": 26,
-          "ast": 2,
-          "rob": 1,
-          "val": 38
+          "pj": 4,
+          "sec": 6669,
+          "pts": 51,
+          "reb": 41,
+          "ast": 3,
+          "rob": 2,
+          "val": 80
         },
         {
           "n": "SIMA FATTY, OUSMAN",
           "d": "9",
-          "pj": 3,
-          "sec": 5817,
-          "pts": 54,
-          "reb": 18,
-          "ast": 10,
+          "pj": 4,
+          "sec": 7827,
+          "pts": 65,
+          "reb": 29,
+          "ast": 14,
           "rob": 5,
-          "val": 69
+          "val": 91
         },
         {
           "n": "BULASHVILI, LUKA",
           "d": "10",
-          "pj": 3,
-          "sec": 5423,
-          "pts": 29,
-          "reb": 8,
-          "ast": 10,
+          "pj": 4,
+          "sec": 7097,
+          "pts": 42,
+          "reb": 10,
+          "ast": 12,
           "rob": 3,
-          "val": 35
+          "val": 42
         },
         {
           "n": "QUIJADA GARCÍA, EDUARDO",
           "d": "15",
-          "pj": 3,
-          "sec": 2409,
-          "pts": 10,
+          "pj": 4,
+          "sec": 3182,
+          "pts": 13,
           "reb": 4,
-          "ast": 4,
+          "ast": 6,
           "rob": 0,
-          "val": 1
+          "val": 2
         },
         {
           "n": "QUIRIJNEN, DYLAN BRETT",
           "d": "20",
-          "pj": 3,
-          "sec": 2123,
+          "pj": 4,
+          "sec": 2613,
           "pts": 10,
-          "reb": 5,
+          "reb": 6,
           "ast": 1,
           "rob": 1,
-          "val": 4
+          "val": 0
         },
         {
           "n": "MEJIA ECHEVERRY, JHAN POOL",
           "d": "41",
-          "pj": 3,
-          "sec": 4517,
-          "pts": 21,
-          "reb": 9,
+          "pj": 4,
+          "sec": 5801,
+          "pts": 30,
+          "reb": 15,
           "ast": 4,
-          "rob": 4,
-          "val": 20
+          "rob": 5,
+          "val": 32
         },
         {
           "n": "GABALDÓN CASTELLANOS, DIEGO",
           "d": "6",
-          "pj": 1,
-          "sec": 65,
+          "pj": 2,
+          "sec": 85,
           "pts": 0,
           "reb": 1,
           "ast": 0,
           "rob": 0,
-          "val": 0
+          "val": -1
         }
       ]
     },

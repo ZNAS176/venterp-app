@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T08:41:00+02:00",
+  "updated": "2026-10-23T23:32:00+02:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -266,9 +266,9 @@
           "ko": "2026-10-23T21:00:00+02:00",
           "home": "CB ARIDANE",
           "away": "EL VENTERO CBV",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 59,
+          "sa": 76,
+          "st": "final",
           "venue": "PABELLÓN SEVERO RODRÍGUEZ, Llanos de Aridane, Los (Santa Cruz de Tenerife)"
         },
         {
