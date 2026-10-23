@@ -1,7 +1,7 @@
 {
   "team": "EL VENTERO CBV",
   "competition": "Tercera FEB · Grupo B-A · 2026/27",
-  "updated": "2026-10-23T23:32:00+02:00",
+  "updated": "2026-10-24T00:24:00+02:00",
   "homeVenue": "Pabellón Municipal del Barrio de los Pintores, Villarrobledo",
   "short": {
     "AG MOVIALSA QUALITYSPORT CRIPTANA": "Criptana",
@@ -1102,8 +1102,8 @@
     "2027-04-17"
   ],
   "standings": {
-    "updated": "2026-10-18T22:14:00+02:00",
-    "jornada": "Jornada 3(18/10/2026)",
+    "updated": "2026-10-24T00:24:00+02:00",
+    "jornada": "Jornada 4(25/10/2026)",
     "rows": [
       {
         "pos": 1,
@@ -1129,28 +1129,17 @@
       },
       {
         "pos": 3,
-        "team": "CB ARIDANE",
-        "pj": 3,
-        "pg": 2,
+        "team": "EL VENTERO CBV",
+        "pj": 4,
+        "pg": 3,
         "pp": 1,
-        "pf": 266,
-        "pc": 234,
-        "pt": 32,
-        "racha": "66,7%"
+        "pf": 302,
+        "pc": 262,
+        "pt": 40,
+        "racha": "75,0%"
       },
       {
         "pos": 4,
-        "team": "EL VENTERO CBV",
-        "pj": 3,
-        "pg": 2,
-        "pp": 1,
-        "pf": 226,
-        "pc": 203,
-        "pt": 23,
-        "racha": "66,7%"
-      },
-      {
-        "pos": 5,
         "team": "FUNDACION GLOBALCAJA LA RODA",
         "pj": 3,
         "pg": 2,
@@ -1161,7 +1150,7 @@
         "racha": "66,7%"
       },
       {
-        "pos": 6,
+        "pos": 5,
         "team": "CESUR DISTRITO OLIMPICO",
         "pj": 3,
         "pg": 2,
@@ -1172,7 +1161,7 @@
         "racha": "66,7%"
       },
       {
-        "pos": 7,
+        "pos": 6,
         "team": "C.B. LAS ROZAS",
         "pj": 3,
         "pg": 2,
@@ -1181,6 +1170,17 @@
         "pc": 220,
         "pt": -18,
         "racha": "66,7%"
+      },
+      {
+        "pos": 7,
+        "team": "CB ARIDANE",
+        "pj": 4,
+        "pg": 2,
+        "pp": 2,
+        "pf": 325,
+        "pc": 310,
+        "pt": 15,
+        "racha": "50,0%"
       },
       {
         "pos": 8,
