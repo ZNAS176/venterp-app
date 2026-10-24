@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T21:28:00+02:00",
+  "updated": "2026-10-24T22:28:00+02:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -286,9 +286,9 @@
           "ko": "2026-10-24T19:30:00+02:00",
           "home": "C.B. LAS ROZAS",
           "away": "CESUR DISTRITO OLIMPICO",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 83,
+          "sa": 80,
+          "st": "final",
           "venue": "ALFREDO ESPINIELLA, PABELLON, Rozas de Madrid, Las (Madrid)"
         },
         {
@@ -296,9 +296,9 @@
           "ko": "2026-10-24T20:00:00+02:00",
           "home": "C. D. MENSAJERO ISLA DE LA PALMA",
           "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 98,
+          "sa": 93,
+          "st": "final",
           "venue": "Pabellón Ciudad Deportiva Miraflores, Santa Cruz de La Palma (Santa Cruz de Tenerife)"
         },
         {
