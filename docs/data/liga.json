@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T23:32:00+02:00",
+  "updated": "2026-10-24T21:28:00+02:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -276,9 +276,9 @@
           "ko": "2026-10-24T18:30:00+02:00",
           "home": "STOP BIOGÁS TOBARRA",
           "away": "QUALIS C.B VILLA DE VALDEMORO",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 82,
+          "sa": 87,
+          "st": "final",
           "venue": "Pabellón de la Granja, Tobarra (Albacete)"
         },
         {

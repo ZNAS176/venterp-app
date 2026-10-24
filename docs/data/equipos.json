@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-23T23:32:00+02:00",
+  "updated": "2026-10-24T21:28:00+02:00",
   "teams": {
     "STOP BIOGÁS TOBARRA": {
-      "pj": 3,
+      "pj": 4,
       "pg": 1,
-      "pf": 210,
-      "pc": 227,
+      "pf": 292,
+      "pc": 314,
       "games": [
         {
           "j": 1,
@@ -18,6 +18,10 @@
         {
           "j": 3,
           "p": "2537039"
+        },
+        {
+          "j": 4,
+          "p": "2537052"
         }
       ],
       "players": [
@@ -35,112 +39,112 @@
         {
           "n": "MERKVILADZE, DEMETRE",
           "d": "3",
-          "pj": 3,
-          "sec": 5149,
-          "pts": 39,
-          "reb": 5,
+          "pj": 4,
+          "sec": 6675,
+          "pts": 49,
+          "reb": 7,
           "ast": 2,
           "rob": 1,
-          "val": 12
+          "val": 11
         },
         {
           "n": "SOLNTSEV REMIRO, IVAN",
           "d": "4",
-          "pj": 3,
-          "sec": 2615,
+          "pj": 4,
+          "sec": 2775,
           "pts": 7,
           "reb": 9,
           "ast": 1,
-          "rob": 1,
-          "val": 8
+          "rob": 2,
+          "val": 6
         },
         {
           "n": "NDIAYE, FALLOU",
           "d": "7",
-          "pj": 3,
-          "sec": 4136,
-          "pts": 21,
-          "reb": 29,
+          "pj": 4,
+          "sec": 5484,
+          "pts": 25,
+          "reb": 35,
           "ast": 2,
-          "rob": 0,
-          "val": 38
+          "rob": 2,
+          "val": 43
         },
         {
           "n": "SÁEZ GONZÁLEZ, JUAN",
           "d": "13",
-          "pj": 3,
-          "sec": 4162,
-          "pts": 15,
-          "reb": 9,
-          "ast": 4,
+          "pj": 4,
+          "sec": 5156,
+          "pts": 18,
+          "reb": 13,
+          "ast": 5,
           "rob": 2,
-          "val": 16
+          "val": 18
         },
         {
           "n": "SAIZ-BUSTAMANTE GOMEZ, HECTOR",
           "d": "23",
-          "pj": 3,
-          "sec": 3295,
-          "pts": 40,
+          "pj": 4,
+          "sec": 4615,
+          "pts": 53,
           "reb": 8,
-          "ast": 6,
-          "rob": 7,
-          "val": 31
+          "ast": 9,
+          "rob": 8,
+          "val": 36
         },
         {
           "n": "RAMÓN FERNÁNDEZ, ESTEBAN",
           "d": "26",
-          "pj": 3,
-          "sec": 2277,
+          "pj": 4,
+          "sec": 2873,
           "pts": 1,
-          "reb": 8,
-          "ast": 5,
+          "reb": 9,
+          "ast": 6,
           "rob": 2,
-          "val": 7
+          "val": 8
         },
         {
           "n": "TEASLEY JR, CHRISTOPHER CHARLES",
           "d": "32",
-          "pj": 3,
-          "sec": 4844,
-          "pts": 22,
-          "reb": 14,
-          "ast": 8,
+          "pj": 4,
+          "sec": 6224,
+          "pts": 30,
+          "reb": 17,
+          "ast": 10,
           "rob": 4,
-          "val": 19
+          "val": 24
         },
         {
           "n": "NVE MALEVA, LUIS JAVIER",
           "d": "34",
-          "pj": 3,
-          "sec": 3481,
-          "pts": 29,
-          "reb": 21,
+          "pj": 4,
+          "sec": 4319,
+          "pts": 35,
+          "reb": 24,
           "ast": 1,
-          "rob": 2,
-          "val": 36
+          "rob": 5,
+          "val": 41
         },
         {
           "n": "PUJADAS TARRADELLAS, ALEIX",
           "d": "5",
-          "pj": 2,
-          "sec": 3204,
-          "pts": 27,
-          "reb": 7,
-          "ast": 5,
-          "rob": 6,
-          "val": 28
+          "pj": 3,
+          "sec": 5319,
+          "pts": 53,
+          "reb": 10,
+          "ast": 9,
+          "rob": 9,
+          "val": 62
         },
         {
           "n": "DEUS VERA, RODRIGO",
           "d": "91",
-          "pj": 2,
-          "sec": 2291,
-          "pts": 9,
-          "reb": 7,
-          "ast": 0,
+          "pj": 3,
+          "sec": 4014,
+          "pts": 21,
+          "reb": 11,
+          "ast": 1,
           "rob": 0,
-          "val": -3
+          "val": 4
         }
       ]
     },
@@ -1304,10 +1308,10 @@
       ]
     },
     "QUALIS C.B VILLA DE VALDEMORO": {
-      "pj": 3,
-      "pg": 0,
-      "pf": 236,
-      "pc": 284,
+      "pj": 4,
+      "pg": 1,
+      "pf": 323,
+      "pc": 366,
       "games": [
         {
           "j": 1,
@@ -1320,30 +1324,34 @@
         {
           "j": 3,
           "p": "2537040"
+        },
+        {
+          "j": 4,
+          "p": "2537052"
         }
       ],
       "players": [
         {
           "n": "SÁNCHEZ FERNÁNDEZ, JORGE",
           "d": "10",
-          "pj": 3,
-          "sec": 2020,
-          "pts": 9,
+          "pj": 4,
+          "sec": 2185,
+          "pts": 10,
           "reb": 7,
           "ast": 3,
           "rob": 2,
-          "val": 11
+          "val": 12
         },
         {
           "n": "ABREU TORIBIO, KEVIN TOMAS",
           "d": "11",
-          "pj": 3,
-          "sec": 1858,
+          "pj": 4,
+          "sec": 2318,
           "pts": 11,
           "reb": 1,
           "ast": 6,
-          "rob": 2,
-          "val": 9
+          "rob": 3,
+          "val": 7
         },
         {
           "n": "USAOLA REDONDO, ADAHI",
@@ -1359,90 +1367,90 @@
         {
           "n": "ESCANCIANO MUÑOZ, RUBEN",
           "d": "14",
-          "pj": 3,
-          "sec": 3248,
-          "pts": 26,
-          "reb": 7,
-          "ast": 4,
-          "rob": 2,
-          "val": 14
+          "pj": 4,
+          "sec": 5113,
+          "pts": 45,
+          "reb": 9,
+          "ast": 6,
+          "rob": 3,
+          "val": 34
         },
         {
           "n": "SANZ CÁMARA, MIGUEL",
           "d": "15",
-          "pj": 3,
-          "sec": 3694,
-          "pts": 14,
-          "reb": 13,
-          "ast": 11,
+          "pj": 4,
+          "sec": 5339,
+          "pts": 20,
+          "reb": 18,
+          "ast": 15,
           "rob": 4,
-          "val": 26
+          "val": 35
         },
         {
           "n": "CIPRIAN GERALDO, WESLEY ANTONIO",
           "d": "16",
-          "pj": 3,
-          "sec": 3974,
-          "pts": 45,
-          "reb": 16,
-          "ast": 6,
+          "pj": 4,
+          "sec": 4823,
+          "pts": 52,
+          "reb": 22,
+          "ast": 7,
           "rob": 7,
-          "val": 40
+          "val": 45
         },
         {
           "n": "MARIÑAN MARIN, PABLO",
           "d": "17",
-          "pj": 3,
-          "sec": 2969,
-          "pts": 17,
-          "reb": 10,
-          "ast": 1,
+          "pj": 4,
+          "sec": 4370,
+          "pts": 32,
+          "reb": 11,
+          "ast": 2,
           "rob": 1,
-          "val": 11
+          "val": 24
         },
         {
           "n": "GONZÁLEZ GÓMEZ, IGNACIO",
           "d": "26",
-          "pj": 3,
-          "sec": 3051,
-          "pts": 11,
+          "pj": 4,
+          "sec": 4114,
+          "pts": 18,
           "reb": 3,
-          "ast": 7,
-          "rob": 0,
-          "val": 6
+          "ast": 9,
+          "rob": 1,
+          "val": 14
         },
         {
           "n": "RUÍZ VELARDE, DANIEL",
           "d": "45",
-          "pj": 3,
-          "sec": 3522,
-          "pts": 27,
-          "reb": 17,
-          "ast": 4,
+          "pj": 4,
+          "sec": 4847,
+          "pts": 33,
+          "reb": 23,
+          "ast": 7,
           "rob": 1,
-          "val": 21
+          "val": 35
         },
         {
           "n": "DIAZ GONZALEZ, WELLINGTHON",
           "d": "4",
-          "pj": 3,
-          "sec": 4479,
-          "pts": 49,
-          "reb": 22,
-          "ast": 8,
-          "rob": 2,
-          "val": 54
+          "pj": 4,
+          "sec": 6120,
+          "pts": 68,
+          "reb": 31,
+          "ast": 10,
+          "rob": 4,
+          "val": 77
         },
         {
           "n": "GARCIA SUBRA, DAVID",
           "d": "93",
-          "pj": 3,
-          "sec": 4194,
-          "pts": 20,
-          "reb": 7,
-          "ast": 0,
+          "pj": 4,
+          "sec": 5463,
+          "pts": 27,
+          "reb": 8,
+          "ast": 1,
           "rob": 2,
-          "val": 18
+          "val": 22
         },
         {
           "n": "MEGIA HORTAL, JOSE MANUEL",
@@ -1465,6 +1473,17 @@
           "ast": 0,
           "rob": 0,
           "val": -1
+        },
+        {
+          "n": "SANZ JUEZ, SERGIO",
+          "d": "34",
+          "pj": 1,
+          "sec": 317,
+          "pts": 0,
+          "reb": 1,
+          "ast": 0,
+          "rob": 0,
+          "val": 0
         }
       ]
     },
