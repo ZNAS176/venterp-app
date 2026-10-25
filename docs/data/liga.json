@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T13:35:00+01:00",
+  "updated": "2026-10-25T15:29:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -316,9 +316,9 @@
           "ko": "2026-10-25T13:00:00+01:00",
           "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
           "away": "C.B. DADARMO DE GÜIMAR",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 62,
+          "sa": 82,
+          "st": "final",
           "venue": "POLIDEPORTIVO FERNANDO MARTÍN, Fuenlabrada (Madrid)"
         },
         {
