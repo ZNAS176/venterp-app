@@ -1,7 +1,7 @@
 {
   "team": "EL VENTERO CBV",
   "competition": "Tercera FEB · Grupo B-A · 2026/27",
-  "updated": "2026-10-24T23:29:00+02:00",
+  "updated": "2026-10-25T22:18:00+01:00",
   "homeVenue": "Pabellón Municipal del Barrio de los Pintores, Villarrobledo",
   "short": {
     "AG MOVIALSA QUALITYSPORT CRIPTANA": "Criptana",
@@ -1102,11 +1102,22 @@
     "2027-04-17"
   ],
   "standings": {
-    "updated": "2026-10-24T23:29:00+02:00",
+    "updated": "2026-10-25T22:18:00+01:00",
     "jornada": "Jornada 4(25/10/2026)",
     "rows": [
       {
         "pos": 1,
+        "team": "C.B. DADARMO DE GÜIMAR",
+        "pj": 4,
+        "pg": 4,
+        "pp": 0,
+        "pf": 329,
+        "pc": 283,
+        "pt": 46,
+        "racha": "100,0%"
+      },
+      {
+        "pos": 2,
         "team": "ZENTRO BASKET MADRID",
         "pj": 3,
         "pg": 3,
@@ -1114,17 +1125,6 @@
         "pf": 255,
         "pc": 195,
         "pt": 60,
-        "racha": "100,0%"
-      },
-      {
-        "pos": 2,
-        "team": "C.B. DADARMO DE GÜIMAR",
-        "pj": 3,
-        "pg": 3,
-        "pp": 0,
-        "pf": 247,
-        "pc": 221,
-        "pt": 26,
         "racha": "100,0%"
       },
       {
@@ -1140,6 +1140,17 @@
       },
       {
         "pos": 4,
+        "team": "FUNDACION GLOBALCAJA LA RODA",
+        "pj": 4,
+        "pg": 3,
+        "pp": 1,
+        "pf": 333,
+        "pc": 298,
+        "pt": 35,
+        "racha": "75,0%"
+      },
+      {
+        "pos": 5,
         "team": "C.B. LAS ROZAS",
         "pj": 4,
         "pg": 3,
@@ -1148,17 +1159,6 @@
         "pc": 300,
         "pt": -15,
         "racha": "75,0%"
-      },
-      {
-        "pos": 5,
-        "team": "FUNDACION GLOBALCAJA LA RODA",
-        "pj": 3,
-        "pg": 2,
-        "pp": 1,
-        "pf": 231,
-        "pc": 218,
-        "pt": 13,
-        "racha": "66,7%"
       },
       {
         "pos": 6,
@@ -1206,28 +1206,6 @@
       },
       {
         "pos": 10,
-        "team": "EB FELIPE ANTÓN",
-        "pj": 3,
-        "pg": 1,
-        "pp": 2,
-        "pf": 227,
-        "pc": 243,
-        "pt": -16,
-        "racha": "33,3%"
-      },
-      {
-        "pos": 11,
-        "team": "ARISTOS PARTIZÁN DE FUENLABRADA",
-        "pj": 3,
-        "pg": 1,
-        "pp": 2,
-        "pf": 225,
-        "pc": 242,
-        "pt": -17,
-        "racha": "33,3%"
-      },
-      {
-        "pos": 12,
         "team": "STOP BIOGÁS TOBARRA",
         "pj": 4,
         "pg": 1,
@@ -1235,6 +1213,28 @@
         "pf": 292,
         "pc": 314,
         "pt": -22,
+        "racha": "25,0%"
+      },
+      {
+        "pos": 11,
+        "team": "ARISTOS PARTIZÁN DE FUENLABRADA",
+        "pj": 4,
+        "pg": 1,
+        "pp": 3,
+        "pf": 287,
+        "pc": 324,
+        "pt": -37,
+        "racha": "25,0%"
+      },
+      {
+        "pos": 12,
+        "team": "EB FELIPE ANTÓN",
+        "pj": 4,
+        "pg": 1,
+        "pp": 3,
+        "pf": 307,
+        "pc": 345,
+        "pt": -38,
         "racha": "25,0%"
       },
       {
