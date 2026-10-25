@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T22:28:00+02:00",
+  "updated": "2026-10-25T13:35:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -306,9 +306,9 @@
           "ko": "2026-10-25T11:00:00+01:00",
           "home": "FUNDACION GLOBALCAJA LA RODA",
           "away": "EB FELIPE ANTÓN",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 102,
+          "sa": 80,
+          "st": "final",
           "venue": "JUAN JOSE LOZANO JAREÑO, Roda, La (Albacete)"
         },
         {
