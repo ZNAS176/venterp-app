@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T15:29:00+01:00",
+  "updated": "2026-10-29T09:00:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -419,7 +419,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "ALFREDO ESPINIELLA, PABELLON, Rozas de Madrid, Las (Madrid)"
         },
         {
           "p": "2537065",
@@ -429,7 +429,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "Pabellón de la Granja, Tobarra (Albacete)"
         },
         {
           "p": "2537061",
@@ -439,7 +439,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "JUAN JOSE LOZANO JAREÑO, Roda, La (Albacete)"
         },
         {
           "p": "2537063",
@@ -449,17 +449,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
-        },
-        {
-          "p": "2537064",
-          "ko": "2026-11-07T20:15:00+01:00",
-          "home": "ZENTRO BASKET MADRID",
-          "away": "CESUR DISTRITO OLIMPICO",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
-          "venue": null
+          "venue": "PABELLÓN SEVERO RODRÍGUEZ, Llanos de Aridane, Los (Santa Cruz de Tenerife)"
         },
         {
           "p": "2537066",
@@ -469,7 +459,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "JESUS ESPAÑA, PABELLON, Valdemoro (Madrid)"
         },
         {
           "p": "2537060",
@@ -480,6 +470,16 @@
           "sa": null,
           "st": "pendiente",
           "venue": null
+        },
+        {
+          "p": "2537064",
+          "ko": "2026-11-08T20:30:00+01:00",
+          "home": "ZENTRO BASKET MADRID",
+          "away": "CESUR DISTRITO OLIMPICO",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": "ANTONIO DIAZ MIGUEL, PDVO. MPAL., Madrid (Madrid)"
         }
       ]
     },
