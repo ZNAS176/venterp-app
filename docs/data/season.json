@@ -1,7 +1,7 @@
 {
   "team": "EL VENTERO CBV",
   "competition": "Tercera FEB · Grupo B-A · 2026/27",
-  "updated": "2026-10-25T22:18:00+01:00",
+  "updated": "2026-11-01T00:18:00+01:00",
   "homeVenue": "Pabellón Municipal del Barrio de los Pintores, Villarrobledo",
   "short": {
     "AG MOVIALSA QUALITYSPORT CRIPTANA": "Criptana",
@@ -1102,22 +1102,44 @@
     "2027-04-17"
   ],
   "standings": {
-    "updated": "2026-10-25T22:18:00+01:00",
-    "jornada": "Jornada 4(25/10/2026)",
+    "updated": "2026-11-01T00:18:00+01:00",
+    "jornada": "Jornada 5(01/11/2026)",
     "rows": [
       {
         "pos": 1,
         "team": "C.B. DADARMO DE GÜIMAR",
-        "pj": 4,
+        "pj": 5,
         "pg": 4,
-        "pp": 0,
-        "pf": 329,
-        "pc": 283,
-        "pt": 46,
-        "racha": "100,0%"
+        "pp": 1,
+        "pf": 400,
+        "pc": 356,
+        "pt": 44,
+        "racha": "80,0%"
       },
       {
         "pos": 2,
+        "team": "FUNDACION GLOBALCAJA LA RODA",
+        "pj": 5,
+        "pg": 4,
+        "pp": 1,
+        "pf": 406,
+        "pc": 369,
+        "pt": 37,
+        "racha": "80,0%"
+      },
+      {
+        "pos": 3,
+        "team": "C.B. LAS ROZAS",
+        "pj": 5,
+        "pg": 4,
+        "pp": 1,
+        "pf": 363,
+        "pc": 370,
+        "pt": -7,
+        "racha": "80,0%"
+      },
+      {
+        "pos": 4,
         "team": "ZENTRO BASKET MADRID",
         "pj": 3,
         "pg": 3,
@@ -1128,7 +1150,7 @@
         "racha": "100,0%"
       },
       {
-        "pos": 3,
+        "pos": 5,
         "team": "EL VENTERO CBV",
         "pj": 4,
         "pg": 3,
@@ -1139,125 +1161,103 @@
         "racha": "75,0%"
       },
       {
-        "pos": 4,
-        "team": "FUNDACION GLOBALCAJA LA RODA",
-        "pj": 4,
-        "pg": 3,
-        "pp": 1,
-        "pf": 333,
-        "pc": 298,
-        "pt": 35,
-        "racha": "75,0%"
-      },
-      {
-        "pos": 5,
-        "team": "C.B. LAS ROZAS",
-        "pj": 4,
-        "pg": 3,
-        "pp": 1,
-        "pf": 285,
-        "pc": 300,
-        "pt": -15,
-        "racha": "75,0%"
-      },
-      {
         "pos": 6,
         "team": "CB ARIDANE",
-        "pj": 4,
-        "pg": 2,
+        "pj": 5,
+        "pg": 3,
         "pp": 2,
-        "pf": 325,
-        "pc": 310,
-        "pt": 15,
-        "racha": "50,0%"
+        "pf": 408,
+        "pc": 384,
+        "pt": 24,
+        "racha": "60,0%"
       },
       {
         "pos": 7,
         "team": "C. D. MENSAJERO ISLA DE LA PALMA",
-        "pj": 4,
-        "pg": 2,
+        "pj": 5,
+        "pg": 3,
         "pp": 2,
-        "pf": 321,
-        "pc": 307,
-        "pt": 14,
-        "racha": "50,0%"
+        "pf": 405,
+        "pc": 389,
+        "pt": 16,
+        "racha": "60,0%"
       },
       {
         "pos": 8,
-        "team": "CESUR DISTRITO OLIMPICO",
+        "team": "BASKET GLOBALCAJA QUINTANAR",
         "pj": 4,
         "pg": 2,
         "pp": 2,
-        "pf": 318,
-        "pc": 315,
-        "pt": 3,
+        "pf": 311,
+        "pc": 274,
+        "pt": 37,
         "racha": "50,0%"
       },
       {
         "pos": 9,
-        "team": "BASKET GLOBALCAJA QUINTANAR",
-        "pj": 3,
-        "pg": 1,
-        "pp": 2,
-        "pf": 223,
-        "pc": 212,
-        "pt": 11,
-        "racha": "33,3%"
+        "team": "CESUR DISTRITO OLIMPICO",
+        "pj": 5,
+        "pg": 2,
+        "pp": 3,
+        "pf": 392,
+        "pc": 398,
+        "pt": -6,
+        "racha": "40,0%"
       },
       {
         "pos": 10,
-        "team": "STOP BIOGÁS TOBARRA",
-        "pj": 4,
+        "team": "ARISTOS PARTIZÁN DE FUENLABRADA",
+        "pj": 5,
         "pg": 1,
-        "pp": 3,
-        "pf": 292,
-        "pc": 314,
-        "pt": -22,
-        "racha": "25,0%"
+        "pp": 4,
+        "pf": 369,
+        "pc": 408,
+        "pt": -39,
+        "racha": "20,0%"
       },
       {
         "pos": 11,
-        "team": "ARISTOS PARTIZÁN DE FUENLABRADA",
-        "pj": 4,
+        "team": "EB FELIPE ANTÓN",
+        "pj": 5,
         "pg": 1,
-        "pp": 3,
-        "pf": 287,
-        "pc": 324,
-        "pt": -37,
-        "racha": "25,0%"
+        "pp": 4,
+        "pf": 377,
+        "pc": 423,
+        "pt": -46,
+        "racha": "20,0%"
       },
       {
         "pos": 12,
-        "team": "EB FELIPE ANTÓN",
-        "pj": 4,
+        "team": "STOP BIOGÁS TOBARRA",
+        "pj": 5,
         "pg": 1,
-        "pp": 3,
-        "pf": 307,
-        "pc": 345,
-        "pt": -38,
-        "racha": "25,0%"
+        "pp": 4,
+        "pf": 354,
+        "pc": 402,
+        "pt": -48,
+        "racha": "20,0%"
       },
       {
         "pos": 13,
         "team": "QUALIS C.B VILLA DE VALDEMORO",
-        "pj": 4,
+        "pj": 5,
         "pg": 1,
-        "pp": 3,
-        "pf": 323,
-        "pc": 366,
-        "pt": -43,
-        "racha": "25,0%"
+        "pp": 4,
+        "pf": 394,
+        "pc": 446,
+        "pt": -52,
+        "racha": "20,0%"
       },
       {
         "pos": 14,
         "team": "AG MOVIALSA QUALITYSPORT CRIPTANA",
-        "pj": 4,
-        "pg": 0,
+        "pj": 5,
+        "pg": 1,
         "pp": 4,
-        "pf": 269,
-        "pc": 338,
-        "pt": -69,
-        "racha": "0,0%"
+        "pf": 349,
+        "pc": 409,
+        "pt": -60,
+        "racha": "20,0%"
       }
     ]
   }
