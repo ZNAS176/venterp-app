@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:54:00+01:00",
+  "updated": "2026-10-31T22:57:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -351,9 +351,9 @@
           "ko": "2026-10-31T19:00:00+01:00",
           "home": "BASKET GLOBALCAJA QUINTANAR",
           "away": "STOP BIOGÁS TOBARRA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 88,
+          "sa": 62,
+          "st": "final",
           "venue": "PABELLÓN ANGEL LANCHO, Quintanar del Rey (Cuenca)"
         },
         {
@@ -361,9 +361,9 @@
           "ko": "2026-10-31T19:30:00+01:00",
           "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
           "away": "QUALIS C.B VILLA DE VALDEMORO",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 80,
+          "sa": 71,
+          "st": "final",
           "venue": "Pabellón Municipal de Criptana, Campo de Criptana (Ciudad Real)"
         },
         {
@@ -371,9 +371,9 @@
           "ko": "2026-10-31T20:00:00+01:00",
           "home": "EB FELIPE ANTÓN",
           "away": "C.B. LAS ROZAS",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 70,
+          "sa": 78,
+          "st": "final",
           "venue": "Pabellón Multiusos Roberto Rodríguez Estrello, Santa Cruz de La Palma (Santa Cruz de Tenerife)"
         },
         {
@@ -381,9 +381,9 @@
           "ko": "2026-10-31T20:00:00+01:00",
           "home": "C.B. DADARMO DE GÜIMAR",
           "away": "FUNDACION GLOBALCAJA LA RODA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 71,
+          "sa": 73,
+          "st": "final",
           "venue": "Pabellón Municipal Quique Ruiz, Güímar (Santa Cruz de Tenerife)"
         },
         {
