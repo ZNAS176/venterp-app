@@ -1,7 +1,7 @@
 {
   "team": "EL VENTERO CBV",
   "competition": "Tercera FEB · Grupo B-A · 2026/27",
-  "updated": "2026-11-01T14:11:00+01:00",
+  "updated": "2026-11-01T23:43:00+01:00",
   "homeVenue": "Pabellón Municipal del Barrio de los Pintores, Villarrobledo",
   "short": {
     "AG MOVIALSA QUALITYSPORT CRIPTANA": "Criptana",
@@ -1276,7 +1276,7 @@
     "2027-04-17"
   ],
   "standings": {
-    "updated": "2026-11-01T00:18:00+01:00",
+    "updated": "2026-11-01T23:43:00+01:00",
     "jornada": "Jornada 5(01/11/2026)",
     "rows": [
       {
@@ -1292,6 +1292,17 @@
       },
       {
         "pos": 2,
+        "team": "EL VENTERO CBV",
+        "pj": 5,
+        "pg": 4,
+        "pp": 1,
+        "pf": 372,
+        "pc": 330,
+        "pt": 42,
+        "racha": "80,0%"
+      },
+      {
+        "pos": 3,
         "team": "FUNDACION GLOBALCAJA LA RODA",
         "pj": 5,
         "pg": 4,
@@ -1302,7 +1313,7 @@
         "racha": "80,0%"
       },
       {
-        "pos": 3,
+        "pos": 4,
         "team": "C.B. LAS ROZAS",
         "pj": 5,
         "pg": 4,
@@ -1313,25 +1324,14 @@
         "racha": "80,0%"
       },
       {
-        "pos": 4,
-        "team": "ZENTRO BASKET MADRID",
-        "pj": 3,
-        "pg": 3,
-        "pp": 0,
-        "pf": 255,
-        "pc": 195,
-        "pt": 60,
-        "racha": "100,0%"
-      },
-      {
         "pos": 5,
-        "team": "EL VENTERO CBV",
+        "team": "ZENTRO BASKET MADRID",
         "pj": 4,
         "pg": 3,
         "pp": 1,
-        "pf": 302,
-        "pc": 262,
-        "pt": 40,
+        "pf": 323,
+        "pc": 265,
+        "pt": 58,
         "racha": "75,0%"
       },
       {
