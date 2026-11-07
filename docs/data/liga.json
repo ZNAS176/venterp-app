@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:41:00+01:00",
+  "updated": "2026-11-07T23:40:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -426,9 +426,9 @@
           "ko": "2026-11-07T18:30:00+01:00",
           "home": "STOP BIOGÁS TOBARRA",
           "away": "EL VENTERO CBV",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 68,
+          "sa": 45,
+          "st": "final",
           "venue": "Pabellón de la Granja, Tobarra (Albacete)"
         },
         {
@@ -436,9 +436,9 @@
           "ko": "2026-11-07T19:00:00+01:00",
           "home": "FUNDACION GLOBALCAJA LA RODA",
           "away": "C. D. MENSAJERO ISLA DE LA PALMA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 75,
+          "sa": 59,
+          "st": "final",
           "venue": "JUAN JOSE LOZANO JAREÑO, Roda, La (Albacete)"
         },
         {
@@ -446,9 +446,9 @@
           "ko": "2026-11-07T20:00:00+01:00",
           "home": "CB ARIDANE",
           "away": "EB FELIPE ANTÓN",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 94,
+          "sa": 75,
+          "st": "final",
           "venue": "PABELLÓN SEVERO RODRÍGUEZ, Llanos de Aridane, Los (Santa Cruz de Tenerife)"
         },
         {
@@ -456,9 +456,9 @@
           "ko": "2026-11-07T20:30:00+01:00",
           "home": "QUALIS C.B VILLA DE VALDEMORO",
           "away": "BASKET GLOBALCAJA QUINTANAR",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 65,
+          "sa": 91,
+          "st": "final",
           "venue": "JESUS ESPAÑA, PABELLON, Valdemoro (Madrid)"
         },
         {
