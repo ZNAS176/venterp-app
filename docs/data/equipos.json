@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:57:00+01:00",
+  "updated": "2026-11-07T19:41:00+01:00",
   "teams": {
     "STOP BIOGÁS TOBARRA": {
       "pj": 5,
@@ -797,10 +797,10 @@
       ]
     },
     "C.B. DADARMO DE GÜIMAR": {
-      "pj": 5,
-      "pg": 4,
-      "pf": 400,
-      "pc": 356,
+      "pj": 6,
+      "pg": 5,
+      "pf": 472,
+      "pc": 422,
       "games": [
         {
           "j": 1,
@@ -821,41 +821,45 @@
         {
           "j": 5,
           "p": "2537058"
+        },
+        {
+          "j": 6,
+          "p": "2537062"
         }
       ],
       "players": [
         {
           "n": "GRIMA LORENZO, PABLO",
           "d": "1",
-          "pj": 5,
-          "sec": 6593,
-          "pts": 59,
-          "reb": 20,
-          "ast": 14,
-          "rob": 6,
-          "val": 55
+          "pj": 6,
+          "sec": 7819,
+          "pts": 71,
+          "reb": 24,
+          "ast": 16,
+          "rob": 9,
+          "val": 74
         },
         {
           "n": "PEÑA LOPEZ, OSCAR",
           "d": "2",
-          "pj": 5,
-          "sec": 4973,
-          "pts": 35,
-          "reb": 13,
+          "pj": 6,
+          "sec": 5664,
+          "pts": 38,
+          "reb": 14,
           "ast": 5,
           "rob": 2,
-          "val": 33
+          "val": 32
         },
         {
           "n": "DELGADO SAURA, DAVID",
           "d": "7",
-          "pj": 5,
-          "sec": 5639,
-          "pts": 23,
-          "reb": 15,
-          "ast": 13,
-          "rob": 6,
-          "val": 21
+          "pj": 6,
+          "sec": 7051,
+          "pts": 25,
+          "reb": 17,
+          "ast": 14,
+          "rob": 8,
+          "val": 28
         },
         {
           "n": "QUINTERO HURTADO, JOSE ANGEL",
@@ -871,57 +875,57 @@
         {
           "n": "FERNANDEZ LORENZO, HAUCHE",
           "d": "12",
-          "pj": 5,
-          "sec": 6241,
-          "pts": 21,
-          "reb": 18,
-          "ast": 12,
-          "rob": 5,
-          "val": 37
+          "pj": 6,
+          "sec": 7576,
+          "pts": 27,
+          "reb": 22,
+          "ast": 13,
+          "rob": 7,
+          "val": 44
         },
         {
           "n": "MIRANDA VARGAS, JHONATAN",
           "d": "13",
-          "pj": 5,
-          "sec": 7893,
-          "pts": 46,
-          "reb": 18,
-          "ast": 24,
+          "pj": 6,
+          "sec": 10041,
+          "pts": 62,
+          "reb": 25,
+          "ast": 36,
           "rob": 12,
-          "val": 55
+          "val": 82
         },
         {
           "n": "VERA PEIRO, ALEJANDRO",
           "d": "15",
-          "pj": 4,
-          "sec": 4754,
-          "pts": 43,
-          "reb": 27,
-          "ast": 7,
+          "pj": 5,
+          "sec": 6317,
+          "pts": 59,
+          "reb": 36,
+          "ast": 9,
           "rob": 3,
-          "val": 64
+          "val": 87
         },
         {
           "n": "ESTEBAN GLADER, IVAN BENJAMIN",
           "d": "16",
-          "pj": 5,
-          "sec": 5903,
-          "pts": 36,
-          "reb": 19,
+          "pj": 6,
+          "sec": 7161,
+          "pts": 40,
+          "reb": 20,
           "ast": 3,
           "rob": 3,
-          "val": 32
+          "val": 30
         },
         {
           "n": "MOURE PEREZ, JOSE FRANCISCO",
           "d": "22",
-          "pj": 5,
-          "sec": 7757,
-          "pts": 52,
-          "reb": 23,
-          "ast": 5,
-          "rob": 7,
-          "val": 48
+          "pj": 6,
+          "sec": 9165,
+          "pts": 62,
+          "reb": 26,
+          "ast": 8,
+          "rob": 8,
+          "val": 56
         },
         {
           "n": "RODRÍGUEZ BECERRA, DANIEL",
@@ -937,13 +941,13 @@
         {
           "n": "BIHURRIET, CHRISTIAN JORGE",
           "d": "30",
-          "pj": 4,
-          "sec": 5820,
-          "pts": 52,
-          "reb": 33,
+          "pj": 5,
+          "sec": 6779,
+          "pts": 55,
+          "reb": 42,
           "ast": 3,
           "rob": 4,
-          "val": 85
+          "val": 91
         }
       ]
     },
@@ -1551,10 +1555,10 @@
       ]
     },
     "C.B. LAS ROZAS": {
-      "pj": 5,
+      "pj": 6,
       "pg": 4,
-      "pf": 363,
-      "pc": 370,
+      "pf": 429,
+      "pc": 442,
       "games": [
         {
           "j": 1,
@@ -1575,6 +1579,10 @@
         {
           "j": 5,
           "p": "2537057"
+        },
+        {
+          "j": 6,
+          "p": "2537062"
         }
       ],
       "players": [
@@ -1592,90 +1600,90 @@
         {
           "n": "DIAZ GOMEZ, RAUL",
           "d": "2",
-          "pj": 5,
-          "sec": 6405,
-          "pts": 41,
-          "reb": 17,
-          "ast": 12,
-          "rob": 10,
-          "val": 52
+          "pj": 6,
+          "sec": 7505,
+          "pts": 43,
+          "reb": 19,
+          "ast": 15,
+          "rob": 12,
+          "val": 54
         },
         {
           "n": "MARENA DIOCKOU, LUIS",
           "d": "6",
-          "pj": 5,
-          "sec": 3749,
-          "pts": 15,
-          "reb": 11,
+          "pj": 6,
+          "sec": 4273,
+          "pts": 18,
+          "reb": 13,
           "ast": 1,
           "rob": 7,
-          "val": 17
+          "val": 20
         },
         {
           "n": "NWUGHA GALAN, SAMUEL CHUKWUEMEKA",
           "d": "7",
-          "pj": 5,
-          "sec": 6600,
-          "pts": 50,
-          "reb": 32,
+          "pj": 6,
+          "sec": 7978,
+          "pts": 59,
+          "reb": 38,
           "ast": 5,
-          "rob": 5,
-          "val": 69
+          "rob": 6,
+          "val": 80
         },
         {
           "n": "DEL CERRO RUIZ, DANIEL",
           "d": "8",
-          "pj": 5,
-          "sec": 7440,
-          "pts": 42,
-          "reb": 23,
-          "ast": 5,
-          "rob": 5,
-          "val": 39
+          "pj": 6,
+          "sec": 8931,
+          "pts": 56,
+          "reb": 29,
+          "ast": 6,
+          "rob": 9,
+          "val": 59
         },
         {
           "n": "DE LA TORRE MENA, FEDERICO",
           "d": "11",
-          "pj": 5,
-          "sec": 6499,
-          "pts": 30,
-          "reb": 16,
-          "ast": 18,
-          "rob": 2,
-          "val": 52
+          "pj": 6,
+          "sec": 7543,
+          "pts": 32,
+          "reb": 21,
+          "ast": 20,
+          "rob": 4,
+          "val": 59
         },
         {
           "n": "DELICADO DOMINGUEZ, ABEL",
           "d": "12",
-          "pj": 5,
-          "sec": 5656,
-          "pts": 34,
-          "reb": 19,
-          "ast": 14,
+          "pj": 6,
+          "sec": 6735,
+          "pts": 36,
+          "reb": 25,
+          "ast": 16,
           "rob": 6,
-          "val": 42
+          "val": 37
         },
         {
           "n": "MC-CARTHY SANTOS, LANG-ACOYDAN",
           "d": "22",
-          "pj": 5,
-          "sec": 6462,
-          "pts": 52,
-          "reb": 20,
-          "ast": 8,
-          "rob": 8,
-          "val": 64
+          "pj": 6,
+          "sec": 8232,
+          "pts": 65,
+          "reb": 26,
+          "ast": 11,
+          "rob": 11,
+          "val": 79
         },
         {
           "n": "LORENZO BAREA, DANIEL",
           "d": "33",
-          "pj": 4,
-          "sec": 4286,
-          "pts": 39,
-          "reb": 15,
+          "pj": 5,
+          "sec": 5623,
+          "pts": 45,
+          "reb": 16,
           "ast": 4,
-          "rob": 6,
-          "val": 29
+          "rob": 7,
+          "val": 22
         },
         {
           "n": "CUESTA BLANCO, IGNACIO",
@@ -1691,24 +1699,35 @@
         {
           "n": "HERNANDEZ DEL RIO, GABRIEL",
           "d": "77",
-          "pj": 5,
-          "sec": 6017,
-          "pts": 32,
-          "reb": 19,
+          "pj": 6,
+          "sec": 6847,
+          "pts": 45,
+          "reb": 20,
           "ast": 4,
           "rob": 1,
-          "val": 20
+          "val": 29
         },
         {
           "n": "BLANCO LOPEZ, ALVARO",
           "d": "99",
-          "pj": 5,
-          "sec": 3126,
+          "pj": 6,
+          "sec": 3472,
           "pts": 5,
           "reb": 8,
           "ast": 2,
           "rob": 0,
-          "val": -2
+          "val": -7
+        },
+        {
+          "n": "GIL NARBON, JOSE MARIA",
+          "d": "17",
+          "pj": 1,
+          "sec": 1101,
+          "pts": 2,
+          "reb": 6,
+          "ast": 1,
+          "rob": 0,
+          "val": 1
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:57:00+01:00",
+  "updated": "2026-11-07T19:41:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -416,9 +416,9 @@
           "ko": "2026-11-07T16:30:00+01:00",
           "home": "C.B. LAS ROZAS",
           "away": "C.B. DADARMO DE GÜIMAR",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 66,
+          "sa": 72,
+          "st": "final",
           "venue": "ALFREDO ESPINIELLA, PABELLON, Rozas de Madrid, Las (Madrid)"
         },
         {
