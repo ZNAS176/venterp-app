@@ -1,7 +1,7 @@
 {
   "team": "EL VENTERO CBV",
   "competition": "Tercera FEB · Grupo B-A · 2026/27",
-  "updated": "2026-11-07T23:40:00+01:00",
+  "updated": "2026-11-08T22:05:00+01:00",
   "homeVenue": "Pabellón Municipal del Barrio de los Pintores, Villarrobledo",
   "short": {
     "AG MOVIALSA QUALITYSPORT CRIPTANA": "Criptana",
@@ -1433,7 +1433,7 @@
     "2027-04-17"
   ],
   "standings": {
-    "updated": "2026-11-07T23:40:00+01:00",
+    "updated": "2026-11-08T22:05:00+01:00",
     "jornada": "Jornada 6(08/11/2026)",
     "rows": [
       {
@@ -1548,25 +1548,25 @@
       },
       {
         "pos": 11,
-        "team": "ARISTOS PARTIZÁN DE FUENLABRADA",
-        "pj": 5,
-        "pg": 1,
+        "team": "AG MOVIALSA QUALITYSPORT CRIPTANA",
+        "pj": 6,
+        "pg": 2,
         "pp": 4,
-        "pf": 369,
-        "pc": 408,
-        "pt": -39,
-        "racha": "20,0%"
+        "pf": 433,
+        "pc": 488,
+        "pt": -55,
+        "racha": "33,3%"
       },
       {
         "pos": 12,
-        "team": "AG MOVIALSA QUALITYSPORT CRIPTANA",
-        "pj": 5,
+        "team": "ARISTOS PARTIZÁN DE FUENLABRADA",
+        "pj": 6,
         "pg": 1,
-        "pp": 4,
-        "pf": 349,
-        "pc": 409,
-        "pt": -60,
-        "racha": "20,0%"
+        "pp": 5,
+        "pf": 448,
+        "pc": 492,
+        "pt": -44,
+        "racha": "16,7%"
       },
       {
         "pos": 13,

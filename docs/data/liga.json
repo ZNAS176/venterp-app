@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T23:40:00+01:00",
+  "updated": "2026-11-08T22:05:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -466,9 +466,9 @@
           "ko": "2026-11-08T18:30:00+01:00",
           "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
           "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 79,
+          "sa": 84,
+          "st": "final",
           "venue": "POLIDEPORTIVO FERNANDO MARTÍN, Fuenlabrada (Madrid)"
         },
         {
