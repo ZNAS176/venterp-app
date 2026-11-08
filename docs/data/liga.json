@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T22:05:00+01:00",
+  "updated": "2026-11-09T00:26:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -476,9 +476,9 @@
           "ko": "2026-11-08T20:30:00+01:00",
           "home": "ZENTRO BASKET MADRID",
           "away": "CESUR DISTRITO OLIMPICO",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 74,
+          "sa": 70,
+          "st": "final",
           "venue": "ANTONIO DIAZ MIGUEL, PDVO. MPAL., Madrid (Madrid)"
         }
       ]
