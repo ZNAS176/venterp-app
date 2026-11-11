@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T00:11:00+01:00",
+  "updated": "2026-11-11T15:04:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -497,16 +497,6 @@
           "venue": "Pabellón Municipal Quique Ruiz, Güímar (Santa Cruz de Tenerife)"
         },
         {
-          "p": "2537073",
-          "ko": "2026-11-14T18:30:00+01:00",
-          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
-          "away": "FUNDACION GLOBALCAJA LA RODA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
-          "venue": "POLIDEPORTIVO FERNANDO MARTÍN, Fuenlabrada (Madrid)"
-        },
-        {
           "p": "2537069",
           "ko": "2026-11-14T18:45:00+01:00",
           "home": "CESUR DISTRITO OLIMPICO",
@@ -555,6 +545,16 @@
           "sa": null,
           "st": "pendiente",
           "venue": "Pabellón Municipal del Barrio de los Pintores, Villarrobledo (Albacete)"
+        },
+        {
+          "p": "2537073",
+          "ko": "2026-11-15T19:30:00+01:00",
+          "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
+          "away": "FUNDACION GLOBALCAJA LA RODA",
+          "sh": null,
+          "sa": null,
+          "st": "pendiente",
+          "venue": "POLIDEPORTIVO EL ARROYO, Fuenlabrada (Madrid)"
         }
       ]
     },
@@ -569,7 +569,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "ANTONIO DIAZ MIGUEL, PDVO. MPAL., Madrid (Madrid)"
         },
         {
           "p": "2537078",
