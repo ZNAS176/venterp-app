@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T08:49:00+01:00",
+  "updated": "2026-11-14T22:22:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -501,9 +501,9 @@
           "ko": "2026-11-14T18:45:00+01:00",
           "home": "CESUR DISTRITO OLIMPICO",
           "away": "STOP BIOGÁS TOBARRA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 67,
+          "sa": 80,
+          "st": "final",
           "venue": "SAN BLAS, PDVO. MPAL., Madrid (Madrid)"
         },
         {
@@ -511,9 +511,9 @@
           "ko": "2026-11-14T19:30:00+01:00",
           "home": "AG MOVIALSA QUALITYSPORT CRIPTANA",
           "away": "BASKET GLOBALCAJA QUINTANAR",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 48,
+          "sa": 45,
+          "st": "final",
           "venue": "Pabellón Municipal de Criptana, Campo de Criptana (Ciudad Real)"
         },
         {
@@ -521,9 +521,9 @@
           "ko": "2026-11-14T20:00:00+01:00",
           "home": "EB FELIPE ANTÓN",
           "away": "ZENTRO BASKET MADRID",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 76,
+          "sa": 85,
+          "st": "final",
           "venue": "Pabellón Multiusos Roberto Rodríguez Estrello, Santa Cruz de La Palma (Santa Cruz de Tenerife)"
         },
         {
@@ -531,9 +531,9 @@
           "ko": "2026-11-14T20:00:00+01:00",
           "home": "C. D. MENSAJERO ISLA DE LA PALMA",
           "away": "C.B. LAS ROZAS",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 75,
+          "sa": 79,
+          "st": "final",
           "venue": "Pabellón Ciudad Deportiva Miraflores, Santa Cruz de La Palma (Santa Cruz de Tenerife)"
         },
         {
