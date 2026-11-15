@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T17:59:00+01:00",
+  "updated": "2026-11-15T22:41:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -551,9 +551,9 @@
           "ko": "2026-11-15T19:30:00+01:00",
           "home": "ARISTOS PARTIZÁN DE FUENLABRADA",
           "away": "FUNDACION GLOBALCAJA LA RODA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 63,
+          "sa": 81,
+          "st": "final",
           "venue": "POLIDEPORTIVO EL ARROYO, Fuenlabrada (Madrid)"
         }
       ]
