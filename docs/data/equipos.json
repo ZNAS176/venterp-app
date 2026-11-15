@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T02:09:00+01:00",
+  "updated": "2026-11-15T17:59:00+01:00",
   "teams": {
     "STOP BIOGÁS TOBARRA": {
       "pj": 7,
@@ -1534,10 +1534,10 @@
       ]
     },
     "QUALIS C.B VILLA DE VALDEMORO": {
-      "pj": 6,
+      "pj": 7,
       "pg": 1,
-      "pf": 459,
-      "pc": 537,
+      "pf": 517,
+      "pc": 621,
       "games": [
         {
           "j": 1,
@@ -1562,129 +1562,133 @@
         {
           "j": 6,
           "p": "2537066"
+        },
+        {
+          "j": 7,
+          "p": "2537068"
         }
       ],
       "players": [
         {
           "n": "SÁNCHEZ FERNÁNDEZ, JORGE",
           "d": "10",
-          "pj": 6,
-          "sec": 3291,
+          "pj": 7,
+          "sec": 4056,
           "pts": 11,
-          "reb": 8,
-          "ast": 4,
+          "reb": 9,
+          "ast": 5,
           "rob": 2,
-          "val": 11
+          "val": 10
         },
         {
           "n": "ABREU TORIBIO, KEVIN TOMAS",
           "d": "11",
-          "pj": 6,
-          "sec": 3723,
+          "pj": 7,
+          "sec": 3974,
           "pts": 25,
-          "reb": 8,
+          "reb": 9,
           "ast": 7,
           "rob": 3,
-          "val": 24
+          "val": 23
         },
         {
           "n": "USAOLA REDONDO, ADAHI",
           "d": "13",
-          "pj": 5,
-          "sec": 2372,
+          "pj": 6,
+          "sec": 2837,
           "pts": 14,
           "reb": 1,
           "ast": 2,
           "rob": 3,
-          "val": 9
+          "val": 2
         },
         {
           "n": "ESCANCIANO MUÑOZ, RUBEN",
           "d": "14",
-          "pj": 6,
-          "sec": 7805,
-          "pts": 59,
-          "reb": 16,
+          "pj": 7,
+          "sec": 9211,
+          "pts": 64,
+          "reb": 20,
           "ast": 8,
           "rob": 5,
-          "val": 47
+          "val": 49
         },
         {
           "n": "SANZ CÁMARA, MIGUEL",
-          "d": "77",
-          "pj": 6,
-          "sec": 7447,
-          "pts": 27,
-          "reb": 24,
+          "d": "15",
+          "pj": 7,
+          "sec": 8607,
+          "pts": 34,
+          "reb": 25,
           "ast": 16,
-          "rob": 7,
-          "val": 44
+          "rob": 9,
+          "val": 52
         },
         {
           "n": "CIPRIAN GERALDO, WESLEY ANTONIO",
           "d": "16",
-          "pj": 6,
-          "sec": 7677,
-          "pts": 79,
-          "reb": 26,
-          "ast": 9,
+          "pj": 7,
+          "sec": 9213,
+          "pts": 99,
+          "reb": 30,
+          "ast": 10,
           "rob": 10,
-          "val": 66
+          "val": 83
         },
         {
           "n": "MARIÑAN MARIN, PABLO",
           "d": "17",
-          "pj": 6,
-          "sec": 7643,
-          "pts": 49,
-          "reb": 22,
-          "ast": 3,
-          "rob": 1,
-          "val": 41
+          "pj": 7,
+          "sec": 9272,
+          "pts": 57,
+          "reb": 26,
+          "ast": 7,
+          "rob": 2,
+          "val": 50
         },
         {
           "n": "GONZÁLEZ GÓMEZ, IGNACIO",
           "d": "26",
-          "pj": 6,
-          "sec": 6453,
+          "pj": 7,
+          "sec": 7618,
           "pts": 25,
-          "reb": 6,
-          "ast": 11,
+          "reb": 10,
+          "ast": 14,
           "rob": 7,
-          "val": 25
+          "val": 29
         },
         {
           "n": "RUÍZ VELARDE, DANIEL",
           "d": "45",
-          "pj": 6,
-          "sec": 6690,
-          "pts": 41,
-          "reb": 30,
+          "pj": 7,
+          "sec": 7828,
+          "pts": 53,
+          "reb": 32,
           "ast": 8,
           "rob": 2,
-          "val": 27
+          "val": 36
         },
         {
           "n": "DIAZ GONZALEZ, WELLINGTHON",
           "d": "4",
-          "pj": 6,
-          "sec": 8611,
-          "pts": 85,
-          "reb": 41,
-          "ast": 11,
+          "pj": 7,
+          "sec": 9986,
+          "pts": 88,
+          "reb": 43,
+          "ast": 13,
           "rob": 4,
-          "val": 85
+          "val": 83
         },
         {
           "n": "GARCIA SUBRA, DAVID",
           "d": "93",
-          "pj": 6,
-          "sec": 7549,
-          "pts": 38,
-          "reb": 17,
+          "pj": 7,
+          "sec": 8085,
+          "pts": 40,
+          "reb": 20,
           "ast": 1,
           "rob": 2,
-          "val": 35
+          "val": 40
         },
         {
           "n": "MEGIA HORTAL, JOSE MANUEL",
@@ -1718,6 +1722,17 @@
           "ast": 0,
           "rob": 0,
           "val": -1
+        },
+        {
+          "n": "CABORNERO DULLIUS, DANIEL",
+          "d": "77",
+          "pj": 1,
+          "sec": 574,
+          "pts": 1,
+          "reb": 3,
+          "ast": 0,
+          "rob": 0,
+          "val": -2
         }
       ]
     },
@@ -2298,10 +2313,10 @@
       ]
     },
     "EL VENTERO CBV": {
-      "pj": 6,
-      "pg": 4,
-      "pf": 417,
-      "pc": 398,
+      "pj": 7,
+      "pg": 5,
+      "pf": 501,
+      "pc": 456,
       "games": [
         {
           "j": 1,
@@ -2326,118 +2341,122 @@
         {
           "j": 6,
           "p": "2537065"
+        },
+        {
+          "j": 7,
+          "p": "2537068"
         }
       ],
       "players": [
         {
           "n": "JANGA, RYCHELL ERICK",
           "d": "0",
-          "pj": 6,
-          "sec": 9087,
-          "pts": 51,
-          "reb": 27,
-          "ast": 12,
-          "rob": 5,
-          "val": 46
+          "pj": 7,
+          "sec": 10768,
+          "pts": 56,
+          "reb": 35,
+          "ast": 16,
+          "rob": 6,
+          "val": 61
         },
         {
           "n": "CAULIN TORNERO, ALEJANDRO",
           "d": "3",
-          "pj": 6,
-          "sec": 3902,
-          "pts": 18,
-          "reb": 17,
+          "pj": 7,
+          "sec": 5172,
+          "pts": 30,
+          "reb": 23,
           "ast": 2,
           "rob": 2,
-          "val": 13
+          "val": 26
         },
         {
           "n": "ANDRADE CORREIA E SILVA, HUGO FRANCISCO",
           "d": "4",
-          "pj": 6,
-          "sec": 8562,
-          "pts": 59,
-          "reb": 25,
-          "ast": 16,
-          "rob": 5,
-          "val": 44
+          "pj": 7,
+          "sec": 9906,
+          "pts": 72,
+          "reb": 30,
+          "ast": 17,
+          "rob": 7,
+          "val": 60
         },
         {
           "n": "JIMENEZ MARTINEZ, LUIS",
           "d": "5",
-          "pj": 4,
-          "sec": 761,
+          "pj": 5,
+          "sec": 1322,
           "pts": 2,
-          "reb": 0,
-          "ast": 1,
+          "reb": 1,
+          "ast": 2,
           "rob": 0,
-          "val": 0
+          "val": 2
         },
         {
           "n": "JOAO, ALDEMIRO SOARES MANUEL",
           "d": "7",
-          "pj": 6,
-          "sec": 10031,
-          "pts": 67,
-          "reb": 63,
+          "pj": 7,
+          "sec": 11260,
+          "pts": 76,
+          "reb": 72,
           "ast": 5,
-          "rob": 3,
-          "val": 105
+          "rob": 4,
+          "val": 115
         },
         {
           "n": "SIMA FATTY, OUSMAN",
           "d": "9",
-          "pj": 6,
-          "sec": 11864,
-          "pts": 100,
-          "reb": 41,
-          "ast": 16,
-          "rob": 7,
-          "val": 139
+          "pj": 7,
+          "sec": 13350,
+          "pts": 120,
+          "reb": 45,
+          "ast": 18,
+          "rob": 8,
+          "val": 167
         },
         {
           "n": "BULASHVILI, LUKA",
           "d": "10",
-          "pj": 6,
-          "sec": 10294,
-          "pts": 53,
-          "reb": 11,
-          "ast": 18,
-          "rob": 5,
-          "val": 50
+          "pj": 7,
+          "sec": 11435,
+          "pts": 58,
+          "reb": 12,
+          "ast": 22,
+          "rob": 6,
+          "val": 53
         },
         {
           "n": "QUIJADA GARCÍA, EDUARDO",
           "d": "15",
-          "pj": 6,
-          "sec": 4968,
-          "pts": 13,
-          "reb": 10,
+          "pj": 7,
+          "sec": 5868,
+          "pts": 21,
+          "reb": 11,
           "ast": 7,
-          "rob": 3,
-          "val": 1
+          "rob": 5,
+          "val": 6
         },
         {
           "n": "QUIRIJNEN, DYLAN BRETT",
           "d": "20",
-          "pj": 6,
-          "sec": 3259,
-          "pts": 12,
-          "reb": 9,
+          "pj": 7,
+          "sec": 3962,
+          "pts": 16,
+          "reb": 13,
           "ast": 2,
           "rob": 1,
-          "val": 2
+          "val": 9
         },
         {
           "n": "MEJIA ECHEVERRY, JHAN POOL",
           "d": "41",
-          "pj": 6,
-          "sec": 9187,
-          "pts": 42,
-          "reb": 19,
-          "ast": 6,
+          "pj": 7,
+          "sec": 10704,
+          "pts": 50,
+          "reb": 21,
+          "ast": 7,
           "rob": 7,
-          "val": 41
+          "val": 49
         },
         {
           "n": "GABALDÓN CASTELLANOS, DIEGO",
@@ -2449,6 +2468,17 @@
           "ast": 0,
           "rob": 0,
           "val": -1
+        },
+        {
+          "n": "ALARCON CORONADO, JAVIER",
+          "d": "6",
+          "pj": 1,
+          "sec": 168,
+          "pts": 0,
+          "reb": 0,
+          "ast": 1,
+          "rob": 0,
+          "val": 1
         }
       ]
     },

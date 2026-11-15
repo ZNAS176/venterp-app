@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T02:09:00+01:00",
+  "updated": "2026-11-15T17:59:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -541,9 +541,9 @@
           "ko": "2026-11-15T12:00:00+01:00",
           "home": "EL VENTERO CBV",
           "away": "QUALIS C.B VILLA DE VALDEMORO",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 84,
+          "sa": 58,
+          "st": "final",
           "venue": "Pabellón Municipal del Barrio de los Pintores, Villarrobledo (Albacete)"
         },
         {
