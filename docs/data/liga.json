@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T13:52:00+01:00",
+  "updated": "2026-11-21T18:22:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -566,9 +566,9 @@
           "ko": "2026-11-21T13:15:00+01:00",
           "home": "ZENTRO BASKET MADRID",
           "away": "C.B. DADARMO DE GÜIMAR",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 73,
+          "sa": 94,
+          "st": "final",
           "venue": "ANTONIO DIAZ MIGUEL, PDVO. MPAL., Madrid (Madrid)"
         },
         {
