@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T18:22:00+01:00",
+  "updated": "2026-11-22T00:04:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -576,9 +576,9 @@
           "ko": "2026-11-21T18:30:00+01:00",
           "home": "STOP BIOGÁS TOBARRA",
           "away": "EB FELIPE ANTÓN",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 83,
+          "sa": 66,
+          "st": "final",
           "venue": "Pabellón de la Granja, Tobarra (Albacete)"
         },
         {
@@ -586,9 +586,9 @@
           "ko": "2026-11-21T19:00:00+01:00",
           "home": "FUNDACION GLOBALCAJA LA RODA",
           "away": "AG MOVIALSA QUALITYSPORT CRIPTANA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 80,
+          "sa": 68,
+          "st": "final",
           "venue": "JUAN JOSE LOZANO JAREÑO, Roda, La (Albacete)"
         },
         {
@@ -596,9 +596,9 @@
           "ko": "2026-11-21T19:00:00+01:00",
           "home": "BASKET GLOBALCAJA QUINTANAR",
           "away": "EL VENTERO CBV",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 88,
+          "sa": 81,
+          "st": "final",
           "venue": "PABELLÓN ANGEL LANCHO, Quintanar del Rey (Cuenca)"
         },
         {
@@ -606,9 +606,9 @@
           "ko": "2026-11-21T20:00:00+01:00",
           "home": "CB ARIDANE",
           "away": "C. D. MENSAJERO ISLA DE LA PALMA",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 73,
+          "sa": 76,
+          "st": "final",
           "venue": "PABELLÓN SEVERO RODRÍGUEZ, Llanos de Aridane, Los (Santa Cruz de Tenerife)"
         },
         {
@@ -616,9 +616,9 @@
           "ko": "2026-11-21T20:30:00+01:00",
           "home": "QUALIS C.B VILLA DE VALDEMORO",
           "away": "CESUR DISTRITO OLIMPICO",
-          "sh": null,
-          "sa": null,
-          "st": "pendiente",
+          "sh": 62,
+          "sa": 73,
+          "st": "final",
           "venue": "JESUS ESPAÑA, PABELLON, Valdemoro (Madrid)"
         },
         {
