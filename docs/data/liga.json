@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T01:35:00+01:00",
+  "updated": "2026-11-26T16:00:00+01:00",
   "teams": [
     "AG MOVIALSA QUALITYSPORT CRIPTANA",
     "ARISTOS PARTIZÁN DE FUENLABRADA",
@@ -719,7 +719,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "Pabellón de la Granja, Tobarra (Albacete)"
         },
         {
           "p": "2537093",
@@ -729,7 +729,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "PABELLÓN ANGEL LANCHO, Quintanar del Rey (Cuenca)"
         },
         {
           "p": "2537088",
@@ -739,7 +739,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "ALFREDO ESPINIELLA, PABELLON, Rozas de Madrid, Las (Madrid)"
         },
         {
           "p": "2537090",
@@ -749,7 +749,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "ANTONIO DIAZ MIGUEL, PDVO. MPAL., Madrid (Madrid)"
         },
         {
           "p": "2537089",
@@ -759,7 +759,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "PABELLÓN SEVERO RODRÍGUEZ, Llanos de Aridane, Los (Santa Cruz de Tenerife)"
         },
         {
           "p": "2537094",
@@ -769,7 +769,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "Pabellón Municipal del Barrio de los Pintores, Villarrobledo (Albacete)"
         },
         {
           "p": "2537092",
@@ -779,7 +779,7 @@
           "sh": null,
           "sa": null,
           "st": "pendiente",
-          "venue": null
+          "venue": "JESUS ESPAÑA, PABELLON, Valdemoro (Madrid)"
         }
       ]
     },
